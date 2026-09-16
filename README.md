@@ -295,12 +295,10 @@ ecommerce-powerbi-dashboard/
 │
 ├── README.md
 │
-├── Dashboard/
-│   ├── E-Commerce Analytics Dashboard.pdf
+├── E-Commerce Analytics Dashboard.pdf
 │   
 │
-├── Documentation/
-│   └── Project_Report.pdf
+├── Project_Report.pdf
 │
 ├── Dataset/
   ├── categories.csv
