@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,department,role,hire_date,city,employment_status,salary,manager_id
+1,Ishita,Reddy,IT,Executive,2019-10-19,Delhi,Active,1507235.0,960
+2,Rohan,Patel,IT,Analyst,2018-08-27,Kochi,Active,1732165.0,473
+3,Diya,Kumar,Marketing,Manager,2024-09-12,Surat,Exited,1288339.0,660
+4,Ananya,Iyer,Marketing,Executive,2023-10-21,Bhubaneswar,Active,1613488.0,917
+5,Diya,Mehta,Warehouse,Manager,2019-04-29,Lucknow,Active,1487715.0,461
+6,Sneha,Singh,Customer Service,Specialist,2024-03-25,Kolkata,Active,389390.0,839
+7,Arjun,Mishra,Customer Service,Manager,2022-03-19,Kolkata,Exited,536272.0,414
+8,Aanya,Chauhan,Marketing,Manager,2024-12-09,Coimbatore,Exited,1623601.0,600
+9,Aditya,Rao,IT,Analyst,2021-05-22,Hyderabad,Active,482442.0,860
+10,Rohan,Kapoor,IT,Manager,2023-02-20,Bhubaneswar,Active,802908.0,362
+11,Kabir,Mishra,Marketing,Analyst,2020-10-11,Pune,Active,1422678.0,192
+12,Nisha,Reddy,Operations,Manager,2023-10-31,Bhubaneswar,Active,792353.0,451
+13,Rahul,Kapoor,Finance,Specialist,2021-01-27,Surat,Active,852256.0,341
+14,Diya,Iyer,Operations,Specialist,2024-03-17,Patna,Active,1043042.0,710
+15,Riya,Iyer,Marketing,Executive,2022-10-20,Indore,Active,407700.0,252
+16,Rohan,Shah,IT,Associate,2024-01-25,Surat,Active,1200597.0,168
+17,Ishita,Joshi,Marketing,Associate,2023-02-20,Bhopal,Active,1790862.0,681
+18,Ananya,Rao,Warehouse,Specialist,2024-09-02,Coimbatore,Active,1137235.0,709
+19,Vikram,Kapoor,Warehouse,Manager,2022-12-31,Hyderabad,Exited,315613.0,79
+20,Nisha,Kapoor,Warehouse,Manager,2020-12-30,Delhi,Active,848887.0,457
+21,Kabir,Mehta,Marketing,Specialist,2020-04-12,Bhubaneswar,Active,1619523.0,891
+22,Rahul,Mehta,Operations,Analyst,2018-12-07,Kolkata,Active,1619119.0,579
+23,Sneha,Joshi,IT,Manager,2021-02-07,Indore,Active,505824.0,128
+24,Aarav,Reddy,Sales,Specialist,2019-01-13,Jaipur,Leave,1239451.0,348
+25,Aarav,Malhotra,Warehouse,Associate,2022-04-11,Bhubaneswar,Active,1044427.0,380
+26,Aditya,Kapoor,Operations,Manager,2021-07-14,Pune,Active,1463735.0,589
+27,Kabir,Das,Finance,Manager,2023-11-15,Kochi,Active,1499471.0,754
+28,Arjun,Agarwal,IT,Executive,2019-01-15,Vadodara,Active,479222.0,459
+29,Aarav,Agarwal,IT,Specialist,2025-06-18,Pune,Active,1702918.0,365
+30,Vikram,Gupta,Sales,Analyst,2024-02-01,Bengaluru,Active,565838.0,997
+31,Aditya,Gupta,Sales,Coordinator,2018-05-31,Surat,Active,639976.0,711
+32,Meera,Das,IT,Coordinator,2020-05-16,Indore,Active,549873.0,372
+33,Rahul,Verma,Marketing,Analyst,2025-05-07,Jaipur,Active,1016084.0,226
+34,Diya,Agarwal,Finance,Coordinator,2022-02-24,Bhopal,Active,689597.0,520
+35,Aarav,Jain,IT,Analyst,2019-07-30,Nagpur,Active,1761740.0,863
+36,Meera,Das,IT,Analyst,2019-07-21,Ahmedabad,Active,679852.0,10
+37,Diya,Mishra,Customer Service,Manager,2023-10-10,Mumbai,Active,305602.0,13
+38,Ishita,Verma,Sales,Executive,2023-05-12,Bhopal,Active,672178.0,463
+39,Diya,Singh,Operations,Associate,2025-08-07,Kochi,Active,1492513.0,899
+40,Aarav,Joshi,Finance,Associate,2021-06-17,Pune,Active,395700.0,576
+41,Ishita,Verma,Operations,Manager,2018-06-19,Kochi,Active,1161440.0,653
+42,Meera,Singh,Sales,Associate,2021-01-07,Bhopal,Active,1148025.0,154
+43,Diya,Singh,Customer Service,Specialist,2023-04-28,Surat,Leave,751121.0,508
+44,Ananya,Sharma,Sales,Executive,2020-07-10,Nagpur,Active,458661.0,339
+45,Aarav,Jain,IT,Executive,2022-01-26,Nagpur,Active,681177.0,986
+46,Kavya,Joshi,Sales,Coordinator,2022-03-21,Bhubaneswar,Active,396222.0,130
+47,Rahul,Iyer,Marketing,Coordinator,2019-03-21,Bengaluru,Active,1234794.0,1
+48,Rohan,Verma,Finance,Analyst,2025-08-13,Hyderabad,Active,1648434.0,362
+49,Kabir,Nair,Sales,Analyst,2023-03-19,Lucknow,Active,1564372.0,656
+50,Rohan,Kapoor,Sales,Manager,2025-03-23,Delhi,Active,1268069.0,853
+51,Kavya,Malhotra,Operations,Specialist,2021-08-01,Chandigarh,Active,1049229.0,298
+52,Kavya,Rao,Operations,Associate,2020-08-11,Nagpur,Active,1096119.0,528
+53,Priya,Gupta,Sales,Associate,2024-12-04,Pune,Active,1260955.0,324
+54,Aarav,Jain,Sales,Manager,2021-10-25,Delhi,Active,615920.0,982
+55,Nisha,Verma,Warehouse,Coordinator,2018-06-14,Delhi,Active,725988.0,679
+56,Vivaan,Agarwal,Marketing,Specialist,2023-04-21,Patna,Active,989352.0,305
+57,Ananya,Mehta,Sales,Associate,2022-10-16,Chandigarh,Active,1483824.0,211
+58,Aarav,Joshi,Customer Service,Specialist,2018-05-31,Indore,Active,799846.0,114
+59,Riya,Verma,Marketing,Specialist,2021-07-11,Chennai,Active,804442.0,265
+60,Ishita,Kapoor,IT,Manager,2022-12-30,Chandigarh,Active,249771.0,405
+61,Nisha,Nair,IT,Associate,2018-07-06,Vadodara,Exited,884078.0,141
+62,Sneha,Malhotra,Finance,Specialist,2020-09-02,Hyderabad,Active,389649.0,896
+63,Vikram,Kapoor,IT,Associate,2022-01-26,Coimbatore,Active,419441.0,540
+64,Sneha,Agarwal,Finance,Analyst,2020-08-05,Vadodara,Active,1670315.0,876
+65,Aanya,Malhotra,Marketing,Analyst,2025-10-08,Coimbatore,Active,627142.0,698
+66,Ananya,Rao,Operations,Analyst,2019-01-30,Hyderabad,Active,1022231.0,994
+67,Diya,Sharma,Marketing,Executive,2019-02-28,Pune,Exited,1444313.0,38
+68,Diya,Iyer,Marketing,Coordinator,2021-09-28,Delhi,Active,325117.0,681
+69,Vivaan,Das,Finance,Manager,2022-08-18,Patna,Active,1112932.0,262
+70,Diya,Joshi,Sales,Specialist,2021-04-28,Patna,Active,259426.0,52
+71,Meera,Iyer,Operations,Coordinator,2020-07-05,Kolkata,Active,1565425.0,387
+72,Aditya,Nair,Customer Service,Executive,2025-12-31,Indore,Active,389612.0,238
+73,Arjun,Gupta,Sales,Associate,2022-09-03,Delhi,Active,1750297.0,474
+74,Vivaan,Agarwal,Sales,Manager,2023-09-28,Vadodara,Active,648412.0,681
+75,Kabir,Jain,Customer Service,Executive,2020-12-11,Nagpur,Active,1693032.0,634
+76,Meera,Das,Customer Service,Executive,2024-09-19,Hyderabad,Active,1531540.0,30
+77,Aditya,Nair,Marketing,Analyst,2024-09-08,Surat,Active,1473833.0,727
+78,Vikram,Sharma,Sales,Analyst,2021-05-18,Patna,Active,1597570.0,896
+79,Vikram,Kapoor,Marketing,Executive,2023-07-03,Chandigarh,Exited,1717548.0,125
+80,Sneha,Mehta,Customer Service,Associate,2023-10-02,Bengaluru,Active,1026008.0,555
+81,Rahul,Singh,Customer Service,Executive,2021-04-09,Chennai,Active,353686.0,732
+82,Diya,Kumar,Customer Service,Manager,2025-05-05,Hyderabad,Active,298972.0,255
+83,Aarav,Gupta,Warehouse,Coordinator,2018-10-19,Hyderabad,Active,679027.0,544
+84,Ishita,Jain,IT,Associate,2018-02-06,Coimbatore,Active,1374733.0,294
+85,Vikram,Das,IT,Executive,2024-11-06,Ahmedabad,Active,623346.0,198
+86,Meera,Nair,IT,Executive,2025-06-03,Coimbatore,Active,1766870.0,933
+87,Riya,Malhotra,Finance,Coordinator,2023-08-17,Kolkata,Active,895821.0,704
+88,Rahul,Chauhan,Customer Service,Associate,2025-04-21,Mumbai,Active,388974.0,889
+89,Kabir,Joshi,IT,Specialist,2019-04-07,Coimbatore,Active,1384851.0,631
+90,Kavya,Mehta,Marketing,Analyst,2025-10-18,Kochi,Active,244371.0,807
+91,Nisha,Iyer,Warehouse,Coordinator,2023-07-19,Ahmedabad,Active,829522.0,573
+92,Nisha,Patel,IT,Associate,2020-10-19,Jaipur,Active,917600.0,685
+93,Aarav,Malhotra,Operations,Manager,2018-11-19,Hyderabad,Active,815961.0,932
+94,Riya,Gupta,Operations,Manager,2022-06-10,Bhubaneswar,Leave,1524293.0,705
+95,Neha,Singh,Marketing,Executive,2025-05-09,Bengaluru,Active,960796.0,343
+96,Karan,Malhotra,IT,Specialist,2022-05-03,Patna,Active,747788.0,121
+97,Ishita,Patel,Marketing,Associate,2022-06-29,Bhopal,Active,486534.0,430
+98,Kavya,Patel,Warehouse,Analyst,2023-11-07,Chennai,Active,368873.0,786
+99,Riya,Joshi,IT,Specialist,2025-02-20,Mumbai,Active,1400631.0,935
+100,Aanya,Malhotra,Operations,Executive,2018-09-24,Coimbatore,Active,879483.0,758
+101,Arjun,Das,Customer Service,Specialist,2025-07-05,Bengaluru,Active,459696.0,506
+102,Aanya,Reddy,IT,Manager,2019-09-07,Patna,Active,1677935.0,509
+103,Rahul,Nair,IT,Analyst,2025-08-06,Chandigarh,Active,565072.0,479
+104,Aditya,Shah,Marketing,Coordinator,2025-03-30,Chandigarh,Active,366557.0,931
+105,Vikram,Malhotra,Customer Service,Analyst,2024-03-28,Nagpur,Active,487327.0,40
+106,Rohan,Agarwal,Operations,Executive,2018-09-20,Bhopal,Active,339643.0,111
+107,Sneha,Sharma,Sales,Associate,2026-02-15,Hyderabad,Active,1092457.0,895
+108,Rohan,Kumar,Marketing,Analyst,2021-12-07,Mumbai,Active,373150.0,318
+109,Priya,Gupta,Operations,Executive,2024-06-12,Bhubaneswar,Active,1772526.0,709
+110,Aditya,Jain,Finance,Manager,2022-06-21,Bengaluru,Active,1722397.0,429
+111,Kavya,Gupta,Warehouse,Associate,2020-05-16,Bhopal,Active,916119.0,487
+112,Nisha,Kapoor,IT,Analyst,2025-09-17,Bengaluru,Active,370867.0,992
+113,Aditya,Reddy,Operations,Analyst,2024-12-08,Coimbatore,Active,1713235.0,709
+114,Riya,Joshi,Operations,Manager,2020-04-12,Pune,Active,1294695.0,913
+115,Sneha,Chauhan,Warehouse,Analyst,2020-03-12,Indore,Active,773889.0,752
+116,Kavya,Rao,Operations,Associate,2023-12-15,Vadodara,Active,899333.0,404
+117,Rohan,Joshi,Customer Service,Analyst,2026-01-01,Bhubaneswar,Active,843716.0,976
+118,Ishita,Kumar,IT,Specialist,2018-12-27,Lucknow,Active,1358967.0,550
+119,Kabir,Sharma,Customer Service,Manager,2025-08-31,Indore,Active,984375.0,468
+120,Aditya,Gupta,Operations,Coordinator,2018-10-12,Lucknow,Active,652750.0,605
+121,Vivaan,Singh,Operations,Analyst,2022-09-30,Chennai,Active,1104198.0,393
+122,Rahul,Malhotra,Sales,Associate,2021-04-28,Bengaluru,Active,578343.0,762
+123,Rohan,Malhotra,Operations,Associate,2018-08-13,Pune,Active,276792.0,214
+124,Aanya,Mishra,IT,Executive,2023-01-05,Lucknow,Active,260348.0,582
+125,Meera,Malhotra,Sales,Analyst,2020-03-26,Chandigarh,Exited,970446.0,739
+126,Diya,Sharma,Warehouse,Coordinator,2022-08-22,Indore,Active,641690.0,475
+127,Rohan,Sharma,Marketing,Specialist,2021-06-23,Hyderabad,Active,313361.0,883
+128,Ishita,Shah,Customer Service,Associate,2018-05-13,Surat,Active,1793921.0,317
+129,Arjun,Kumar,Warehouse,Manager,2020-02-20,Kolkata,Active,1712480.0,678
+130,Sneha,Shah,Warehouse,Executive,2024-08-29,Bengaluru,Active,616676.0,808
+131,Aanya,Chauhan,Sales,Coordinator,2018-05-03,Nagpur,Active,322524.0,508
+132,Sneha,Jain,Warehouse,Analyst,2019-07-12,Patna,Active,724775.0,529
+133,Rohan,Chauhan,Sales,Coordinator,2025-05-28,Nagpur,Active,324749.0,621
+134,Neha,Iyer,IT,Executive,2024-08-12,Bhopal,Active,386291.0,12
+135,Neha,Malhotra,Customer Service,Executive,2024-12-28,Kochi,Active,712098.0,116
+136,Neha,Sharma,Marketing,Specialist,2026-01-06,Pune,Active,1430462.0,738
+137,Kabir,Nair,Sales,Specialist,2024-11-03,Kolkata,Active,585560.0,973
+138,Rohan,Reddy,Marketing,Associate,2022-02-14,Nagpur,Active,1751519.0,905
+139,Nisha,Iyer,Warehouse,Executive,2023-03-02,Ahmedabad,Active,1356227.0,666
+140,Karan,Malhotra,Operations,Analyst,2024-06-16,Jaipur,Active,1776083.0,634
+141,Kavya,Reddy,Operations,Analyst,2018-07-17,Kolkata,Active,1207010.0,479
+142,Ananya,Kumar,Operations,Associate,2020-05-22,Nagpur,Active,1184403.0,55
+143,Aditya,Iyer,Operations,Specialist,2024-04-15,Chennai,Active,1381096.0,934
+144,Arjun,Verma,Customer Service,Analyst,2024-04-10,Bhubaneswar,Active,1508899.0,88
+145,Nisha,Nair,Finance,Associate,2021-06-11,Surat,Active,1437937.0,776
+146,Vivaan,Verma,Customer Service,Specialist,2018-06-07,Surat,Leave,1004181.0,811
+147,Vikram,Gupta,Operations,Coordinator,2025-10-01,Pune,Active,1119870.0,111
+148,Aditya,Shah,Operations,Manager,2018-02-14,Chandigarh,Active,1745351.0,364
+149,Aarav,Sharma,IT,Manager,2021-08-15,Kolkata,Leave,918981.0,699
+150,Sneha,Rao,Finance,Associate,2018-02-03,Mumbai,Active,1679092.0,395
+151,Vikram,Sharma,IT,Specialist,2019-11-20,Kolkata,Active,399452.0,949
+152,Sneha,Nair,IT,Analyst,2019-10-31,Bengaluru,Active,352339.0,510
+153,Aanya,Mehta,Sales,Analyst,2021-04-26,Delhi,Active,759937.0,801
+154,Karan,Nair,Operations,Analyst,2019-07-27,Coimbatore,Active,945770.0,425
+155,Neha,Verma,Sales,Specialist,2022-01-14,Kochi,Active,451012.0,101
+156,Ananya,Mishra,Warehouse,Analyst,2021-03-15,Bhubaneswar,Active,1703309.0,682
+157,Priya,Reddy,IT,Manager,2024-11-13,Nagpur,Active,1202653.0,234
+158,Vivaan,Iyer,Sales,Executive,2025-02-20,Patna,Active,381729.0,953
+159,Ishita,Shah,Operations,Specialist,2024-02-06,Bhopal,Active,591441.0,776
+160,Aditya,Malhotra,Sales,Associate,2022-07-13,Bengaluru,Active,1212287.0,442
+161,Kabir,Shah,Finance,Coordinator,2024-09-26,Bengaluru,Active,725887.0,712
+162,Ananya,Gupta,IT,Specialist,2023-04-13,Delhi,Active,661750.0,892
+163,Arjun,Mishra,Operations,Executive,2018-08-28,Chennai,Active,1557459.0,92
+164,Rohan,Nair,IT,Manager,2024-10-11,Bhopal,Active,536907.0,8
+165,Kabir,Reddy,Sales,Manager,2023-09-01,Ahmedabad,Active,1596715.0,168
+166,Aditya,Chauhan,Marketing,Manager,2019-06-03,Lucknow,Active,1040375.0,686
+167,Vivaan,Mehta,IT,Specialist,2021-03-14,Bhubaneswar,Active,549451.0,786
+168,Sneha,Kumar,Marketing,Analyst,2024-02-03,Bhubaneswar,Active,805893.0,167
+169,Meera,Joshi,Marketing,Coordinator,2018-04-19,Chennai,Active,1628742.0,979
+170,Karan,Mishra,Customer Service,Coordinator,2021-12-06,Lucknow,Active,379920.0,669
+171,Riya,Patel,Operations,Executive,2021-09-14,Lucknow,Active,1402381.0,583
+172,Rahul,Chauhan,IT,Specialist,2020-01-01,Hyderabad,Active,1057137.0,910
+173,Nisha,Nair,Sales,Associate,2019-02-21,Patna,Active,1799337.0,405
+174,Priya,Kumar,IT,Associate,2022-03-10,Hyderabad,Active,401991.0,757
+175,Ishita,Gupta,Customer Service,Manager,2019-02-07,Hyderabad,Active,724861.0,529
+176,Aarav,Das,Finance,Coordinator,2025-05-13,Chennai,Active,755322.0,531
+177,Aditya,Verma,Operations,Associate,2018-02-17,Bhubaneswar,Active,1030375.0,858
+178,Aarav,Sharma,Sales,Specialist,2023-05-15,Bengaluru,Active,1529850.0,773
+179,Diya,Jain,Operations,Executive,2019-05-02,Patna,Active,1088685.0,452
+180,Vikram,Rao,Marketing,Analyst,2021-09-16,Bhubaneswar,Active,1535110.0,156
+181,Ishita,Rao,Marketing,Specialist,2019-08-02,Jaipur,Active,796160.0,590
+182,Riya,Joshi,Sales,Specialist,2025-02-27,Surat,Active,1275195.0,962
+183,Rahul,Patel,Customer Service,Coordinator,2023-04-27,Nagpur,Active,1080652.0,739
+184,Rohan,Joshi,Marketing,Executive,2024-01-13,Hyderabad,Active,514380.0,909
+185,Ishita,Jain,Customer Service,Executive,2019-10-26,Bhubaneswar,Active,489928.0,290
+186,Aarav,Das,Sales,Specialist,2021-06-06,Mumbai,Active,1655394.0,983
+187,Aditya,Mishra,Finance,Analyst,2022-07-13,Hyderabad,Active,1035275.0,183
+188,Diya,Das,Customer Service,Executive,2023-02-27,Chandigarh,Active,1111177.0,277
+189,Aanya,Patel,Finance,Specialist,2018-11-25,Ahmedabad,Active,1580946.0,676
+190,Arjun,Jain,IT,Specialist,2021-08-05,Hyderabad,Active,1798241.0,365
+191,Ananya,Gupta,Warehouse,Manager,2025-03-26,Ahmedabad,Active,1757154.0,323
+192,Ananya,Sharma,Customer Service,Coordinator,2020-09-11,Chandigarh,Active,1114706.0,618
+193,Karan,Jain,Warehouse,Associate,2021-01-17,Indore,Active,1334532.0,75
+194,Rahul,Reddy,Operations,Analyst,2024-06-10,Lucknow,Active,928589.0,171
+195,Arjun,Iyer,Operations,Coordinator,2018-02-02,Surat,Active,619592.0,673
+196,Vikram,Jain,Finance,Associate,2020-02-12,Coimbatore,Active,579545.0,507
+197,Ishita,Das,Sales,Specialist,2023-09-02,Ahmedabad,Active,465605.0,907
+198,Rohan,Joshi,Sales,Analyst,2022-12-06,Jaipur,Active,1131350.0,743
+199,Rahul,Chauhan,Operations,Coordinator,2024-03-31,Bengaluru,Leave,474076.0,849
+200,Karan,Iyer,Operations,Specialist,2019-05-31,Hyderabad,Active,1718741.0,780
+201,Meera,Singh,Sales,Coordinator,2025-10-16,Hyderabad,Active,1713813.0,958
+202,Kabir,Chauhan,Sales,Coordinator,2018-08-09,Nagpur,Active,1695791.0,603
+203,Vikram,Verma,Sales,Executive,2018-11-14,Lucknow,Active,1791634.0,472
+204,Vikram,Rao,IT,Specialist,2019-07-27,Delhi,Active,660510.0,16
+205,Aanya,Nair,Operations,Executive,2024-09-30,Indore,Active,925807.0,154
+206,Vivaan,Shah,Marketing,Executive,2023-05-05,Kolkata,Active,1593472.0,303
+207,Ananya,Gupta,Warehouse,Specialist,2019-12-12,Patna,Active,500233.0,705
+208,Riya,Agarwal,Warehouse,Manager,2025-01-21,Indore,Active,1089279.0,788
+209,Rohan,Malhotra,Customer Service,Executive,2023-05-21,Bengaluru,Active,957216.0,479
+210,Kavya,Jain,IT,Specialist,2018-01-25,Jaipur,Active,565888.0,55
+211,Ananya,Kumar,IT,Manager,2021-09-03,Kolkata,Active,1413140.0,376
+212,Rohan,Rao,Finance,Specialist,2019-10-28,Kolkata,Active,496151.0,282
+213,Karan,Das,Operations,Associate,2023-10-16,Bengaluru,Active,1791133.0,331
+214,Vikram,Rao,Warehouse,Associate,2020-01-28,Pune,Active,1782530.0,930
+215,Kavya,Singh,Operations,Executive,2024-09-12,Vadodara,Active,1562753.0,892
+216,Kavya,Malhotra,Customer Service,Associate,2024-07-11,Chandigarh,Active,1129181.0,871
+217,Aanya,Iyer,Sales,Analyst,2021-02-13,Coimbatore,Active,1751505.0,614
+218,Sneha,Mishra,Sales,Manager,2021-11-16,Coimbatore,Active,1399695.0,731
+219,Kavya,Malhotra,Warehouse,Manager,2021-03-11,Lucknow,Active,633215.0,366
+220,Aditya,Jain,Marketing,Analyst,2019-07-26,Patna,Active,799979.0,339
+221,Neha,Nair,Warehouse,Coordinator,2024-12-31,Surat,Active,1784649.0,69
+222,Diya,Chauhan,Finance,Specialist,2023-10-23,Ahmedabad,Active,732767.0,436
+223,Kavya,Verma,Customer Service,Analyst,2026-03-19,Kochi,Active,1056609.0,957
+224,Riya,Reddy,Operations,Associate,2023-04-25,Ahmedabad,Active,344852.0,971
+225,Rohan,Iyer,IT,Associate,2020-02-25,Bhubaneswar,Active,1712549.0,730
+226,Rohan,Nair,Finance,Associate,2024-11-04,Coimbatore,Active,1618431.0,836
+227,Priya,Singh,Marketing,Manager,2024-11-04,Lucknow,Active,1764887.0,949
+228,Ananya,Mishra,Operations,Manager,2025-11-08,Hyderabad,Active,1054193.0,467
+229,Aanya,Chauhan,Marketing,Coordinator,2019-03-04,Coimbatore,Active,1630683.0,391
+230,Nisha,Reddy,Warehouse,Coordinator,2022-04-17,Ahmedabad,Active,667883.0,472
+231,Rahul,Singh,Warehouse,Coordinator,2020-10-06,Nagpur,Active,874043.0,884
+232,Meera,Reddy,Customer Service,Coordinator,2018-05-26,Surat,Exited,1383586.0,783
+233,Vikram,Nair,Marketing,Executive,2026-03-06,Hyderabad,Active,423193.0,671
+234,Meera,Gupta,Sales,Coordinator,2019-02-01,Chennai,Active,613058.0,618
+235,Sneha,Mishra,Warehouse,Coordinator,2025-08-03,Bhubaneswar,Active,943060.0,402
+236,Rahul,Jain,Sales,Associate,2018-03-11,Hyderabad,Active,703224.0,923
+237,Aanya,Iyer,IT,Manager,2021-03-14,Jaipur,Active,1468185.0,223
+238,Riya,Kumar,Finance,Associate,2018-09-15,Ahmedabad,Active,1543681.0,477
+239,Ananya,Mishra,Sales,Analyst,2019-02-26,Mumbai,Active,255054.0,893
+240,Aarav,Kapoor,Marketing,Associate,2021-10-11,Kolkata,Active,376260.0,359
+241,Meera,Kumar,Finance,Coordinator,2023-07-01,Nagpur,Active,1531495.0,976
+242,Vivaan,Reddy,IT,Associate,2020-08-01,Kolkata,Active,673328.0,307
+243,Diya,Das,Marketing,Specialist,2025-11-29,Ahmedabad,Active,1009907.0,15
+244,Priya,Jain,Finance,Analyst,2019-03-28,Hyderabad,Exited,799466.0,680
+245,Nisha,Patel,IT,Analyst,2023-02-07,Bengaluru,Active,1014584.0,868
+246,Aditya,Iyer,Operations,Executive,2024-03-06,Kochi,Active,1000843.0,344
+247,Riya,Joshi,Warehouse,Analyst,2024-12-24,Nagpur,Active,1578280.0,472
+248,Kavya,Iyer,Operations,Specialist,2026-02-11,Vadodara,Exited,1779430.0,672
+249,Nisha,Mishra,Operations,Specialist,2018-10-22,Pune,Active,336095.0,778
+250,Aarav,Kumar,Sales,Coordinator,2021-09-27,Surat,Active,1159572.0,166
+251,Rahul,Agarwal,Operations,Associate,2018-01-25,Indore,Active,638452.0,296
+252,Meera,Agarwal,Finance,Executive,2018-09-06,Surat,Active,438371.0,622
+253,Neha,Sharma,Marketing,Analyst,2021-03-08,Ahmedabad,Exited,1307833.0,943
+254,Ananya,Iyer,Operations,Associate,2018-12-11,Surat,Exited,1456417.0,446
+255,Neha,Patel,Warehouse,Coordinator,2024-03-08,Coimbatore,Active,714843.0,32
+256,Diya,Mehta,Customer Service,Manager,2019-04-15,Pune,Active,1473643.0,677
+257,Rahul,Agarwal,Finance,Associate,2020-08-28,Nagpur,Active,1122061.0,790
+258,Sneha,Gupta,Finance,Specialist,2024-01-11,Delhi,Active,1116229.0,332
+259,Ishita,Chauhan,Marketing,Specialist,2023-11-05,Chennai,Active,1600702.0,544
+260,Ishita,Kumar,Finance,Coordinator,2023-11-20,Mumbai,Active,1760767.0,735
+261,Nisha,Joshi,Marketing,Associate,2021-07-03,Pune,Active,579975.0,473
+262,Nisha,Patel,Finance,Associate,2022-07-17,Bhubaneswar,Active,1456307.0,874
+263,Vikram,Rao,IT,Manager,2024-07-21,Chennai,Active,1477419.0,54
+264,Rohan,Malhotra,Marketing,Analyst,2023-11-09,Coimbatore,Active,1470527.0,462
+265,Aanya,Mehta,Customer Service,Manager,2018-09-13,Bhopal,Leave,365823.0,662
+266,Vikram,Sharma,Operations,Analyst,2024-11-19,Kochi,Active,372204.0,767
+267,Kavya,Das,Operations,Manager,2019-10-31,Lucknow,Active,949376.0,621
+268,Aanya,Nair,Warehouse,Manager,2025-03-05,Chennai,Active,527403.0,931
+269,Kavya,Malhotra,IT,Associate,2020-09-13,Patna,Active,698896.0,738
+270,Rohan,Verma,Operations,Coordinator,2020-07-02,Bengaluru,Active,646867.0,916
+271,Aanya,Sharma,Warehouse,Coordinator,2022-01-02,Kolkata,Active,961020.0,598
+272,Vivaan,Shah,Sales,Manager,2020-07-11,Delhi,Active,829182.0,799
+273,Diya,Das,Customer Service,Associate,2020-08-26,Delhi,Active,1060192.0,970
+274,Sneha,Rao,Operations,Specialist,2023-01-10,Kolkata,Active,615222.0,720
+275,Ishita,Shah,Operations,Associate,2023-11-25,Jaipur,Active,907340.0,342
+276,Diya,Nair,Sales,Executive,2019-07-14,Delhi,Active,1347025.0,561
+277,Vikram,Iyer,Marketing,Analyst,2020-11-05,Bhopal,Active,1772474.0,858
+278,Karan,Patel,Customer Service,Manager,2022-03-26,Chandigarh,Active,1768701.0,12
+279,Vikram,Nair,Sales,Manager,2021-06-26,Kolkata,Active,1171826.0,572
+280,Karan,Kumar,Finance,Manager,2021-08-21,Nagpur,Active,1664635.0,976
+281,Kabir,Kapoor,Finance,Manager,2021-02-22,Nagpur,Active,536246.0,875
+282,Aditya,Jain,Finance,Analyst,2024-10-19,Nagpur,Exited,1312719.0,915
+283,Vivaan,Verma,Marketing,Executive,2023-08-26,Bhubaneswar,Active,500137.0,322
+284,Neha,Jain,Marketing,Associate,2018-10-17,Delhi,Active,1707191.0,989
+285,Arjun,Rao,IT,Specialist,2018-04-25,Delhi,Active,828801.0,249
+286,Sneha,Jain,Operations,Specialist,2025-04-13,Mumbai,Active,1002291.0,436
+287,Diya,Verma,Sales,Analyst,2021-12-22,Chennai,Active,540817.0,458
+288,Diya,Jain,IT,Associate,2023-01-28,Chandigarh,Active,877709.0,464
+289,Nisha,Agarwal,Customer Service,Associate,2025-05-15,Patna,Active,1194103.0,596
+290,Arjun,Kumar,Customer Service,Coordinator,2019-01-20,Chennai,Active,437883.0,613
+291,Vivaan,Rao,Marketing,Associate,2025-09-19,Coimbatore,Active,360597.0,501
+292,Aarav,Shah,Sales,Associate,2023-09-29,Indore,Active,674724.0,651
+293,Vivaan,Mehta,Finance,Associate,2020-06-14,Surat,Active,597107.0,954
+294,Neha,Patel,Warehouse,Analyst,2021-10-02,Lucknow,Active,507528.0,858
+295,Kavya,Chauhan,Marketing,Associate,2019-11-03,Coimbatore,Active,403065.0,393
+296,Diya,Chauhan,IT,Executive,2025-06-17,Kochi,Active,552034.0,669
+297,Meera,Patel,IT,Associate,2019-11-27,Nagpur,Active,399764.0,765
+298,Rohan,Verma,Operations,Specialist,2019-04-02,Lucknow,Active,611349.0,433
+299,Rohan,Verma,Marketing,Manager,2018-09-19,Jaipur,Active,1296318.0,741
+300,Nisha,Joshi,IT,Manager,2023-01-06,Kochi,Active,1082265.0,572
+301,Aditya,Singh,Operations,Specialist,2022-07-09,Chandigarh,Active,1231055.0,856
+302,Riya,Nair,Sales,Manager,2018-01-26,Lucknow,Active,769167.0,118
+303,Aditya,Reddy,Marketing,Manager,2021-01-02,Bhubaneswar,Active,865089.0,710
+304,Riya,Joshi,Customer Service,Executive,2025-08-03,Patna,Active,249581.0,150
+305,Rahul,Nair,Sales,Analyst,2019-04-02,Nagpur,Active,1513173.0,475
+306,Kabir,Nair,IT,Specialist,2020-10-10,Vadodara,Exited,1475438.0,539
+307,Aanya,Kapoor,Sales,Associate,2024-08-31,Bhopal,Active,318173.0,777
+308,Diya,Verma,Warehouse,Associate,2019-01-12,Nagpur,Active,1239152.0,199
+309,Ishita,Nair,Sales,Coordinator,2022-06-12,Indore,Exited,429445.0,136
+310,Kabir,Gupta,Warehouse,Specialist,2023-09-01,Indore,Active,1339321.0,787
+311,Kabir,Gupta,Operations,Analyst,2024-03-27,Vadodara,Active,1583330.0,209
+312,Vikram,Das,Warehouse,Specialist,2021-02-08,Mumbai,Active,549189.0,529
+313,Sneha,Iyer,Finance,Associate,2019-09-20,Pune,Active,436101.0,288
+314,Aarav,Kapoor,Finance,Manager,2019-08-05,Hyderabad,Active,1098908.0,942
+315,Riya,Shah,Warehouse,Manager,2026-02-12,Coimbatore,Active,680307.0,702
+316,Nisha,Joshi,Operations,Analyst,2022-07-22,Indore,Active,1152841.0,288
+317,Rohan,Kapoor,Customer Service,Coordinator,2024-08-19,Jaipur,Active,375011.0,711
+318,Nisha,Malhotra,Warehouse,Associate,2018-04-07,Bhopal,Exited,454904.0,843
+319,Vikram,Iyer,Marketing,Specialist,2023-07-11,Mumbai,Active,559949.0,554
+320,Kabir,Reddy,Warehouse,Manager,2022-05-03,Delhi,Active,1431567.0,668
+321,Kabir,Verma,Sales,Analyst,2022-04-07,Kochi,Active,437126.0,45
+322,Vikram,Kapoor,Warehouse,Analyst,2020-07-31,Jaipur,Leave,716174.0,442
+323,Ananya,Singh,Warehouse,Manager,2023-05-25,Bengaluru,Active,465640.0,62
+324,Aanya,Sharma,Sales,Analyst,2020-01-15,Bengaluru,Active,907447.0,530
+325,Rohan,Mishra,Marketing,Executive,2019-01-06,Pune,Active,1585302.0,281
+326,Ishita,Kumar,Warehouse,Manager,2020-06-05,Mumbai,Active,707355.0,237
+327,Ishita,Kumar,Marketing,Associate,2018-11-21,Bhopal,Active,788757.0,715
+328,Riya,Patel,Marketing,Associate,2023-06-22,Bhubaneswar,Active,1288105.0,30
+329,Ishita,Das,Operations,Manager,2018-01-31,Bhubaneswar,Active,905992.0,918
+330,Rahul,Shah,Customer Service,Executive,2022-08-13,Delhi,Active,640225.0,655
+331,Riya,Chauhan,Finance,Associate,2018-08-22,Bhopal,Active,1493967.0,302
+332,Karan,Kapoor,Operations,Associate,2021-04-21,Pune,Leave,450344.0,336
+333,Aarav,Nair,Operations,Analyst,2022-10-29,Surat,Active,411369.0,476
+334,Vivaan,Nair,Marketing,Associate,2020-09-19,Indore,Active,1092618.0,641
+335,Kavya,Mehta,IT,Manager,2020-05-27,Lucknow,Active,274861.0,210
+336,Karan,Agarwal,Finance,Executive,2023-11-12,Chennai,Active,1309657.0,417
+337,Vikram,Das,IT,Manager,2023-01-17,Ahmedabad,Active,1151833.0,760
+338,Karan,Shah,IT,Coordinator,2022-02-14,Bhubaneswar,Exited,944816.0,948
+339,Karan,Singh,Finance,Analyst,2021-10-01,Pune,Active,1376292.0,291
+340,Diya,Chauhan,Marketing,Executive,2023-07-05,Nagpur,Active,738117.0,515
+341,Aanya,Mishra,Sales,Analyst,2021-02-01,Vadodara,Active,1365401.0,101
+342,Ananya,Mishra,Finance,Associate,2020-04-27,Coimbatore,Active,357694.0,436
+343,Arjun,Gupta,Customer Service,Analyst,2021-04-05,Bhopal,Active,1187762.0,959
+344,Kabir,Reddy,Operations,Analyst,2026-02-11,Bengaluru,Active,1581403.0,138
+345,Vikram,Rao,IT,Manager,2026-01-22,Patna,Active,331980.0,465
+346,Aditya,Gupta,Sales,Executive,2018-11-24,Indore,Active,523085.0,246
+347,Nisha,Reddy,Customer Service,Specialist,2018-05-04,Coimbatore,Active,1083923.0,550
+348,Riya,Singh,Marketing,Analyst,2025-12-09,Indore,Active,813205.0,871
+349,Riya,Jain,Warehouse,Manager,2025-03-10,Bengaluru,Active,525818.0,73
+350,Riya,Patel,Marketing,Manager,2018-10-13,Kochi,Active,1222399.0,273
+351,Aarav,Iyer,Finance,Coordinator,2018-06-03,Lucknow,Active,1277580.0,570
+352,Vivaan,Kapoor,Finance,Manager,2022-07-28,Bengaluru,Active,476485.0,517
+353,Aanya,Mishra,Customer Service,Specialist,2021-12-13,Indore,Active,1422945.0,57
+354,Rahul,Joshi,Marketing,Analyst,2024-07-04,Delhi,Active,1415714.0,312
+355,Meera,Singh,IT,Coordinator,2020-06-05,Delhi,Active,324057.0,70
+356,Kabir,Mishra,Sales,Analyst,2024-11-02,Hyderabad,Active,660055.0,836
+357,Riya,Patel,Warehouse,Manager,2018-07-29,Bhubaneswar,Active,276727.0,850
+358,Sneha,Jain,Customer Service,Analyst,2018-06-14,Nagpur,Active,869384.0,834
+359,Ishita,Kumar,Marketing,Specialist,2019-05-23,Bhopal,Active,605738.0,461
+360,Vikram,Verma,Operations,Specialist,2022-06-08,Bengaluru,Active,363589.0,310
+361,Diya,Gupta,Customer Service,Manager,2018-01-07,Chennai,Active,862769.0,987
+362,Karan,Shah,IT,Manager,2020-02-12,Coimbatore,Active,395449.0,147
+363,Rahul,Kumar,Finance,Executive,2019-11-15,Patna,Active,350102.0,414
+364,Rahul,Chauhan,Warehouse,Executive,2022-04-14,Pune,Active,1161899.0,787
+365,Diya,Nair,Operations,Manager,2023-05-16,Hyderabad,Active,963373.0,933
+366,Aarav,Kapoor,Customer Service,Analyst,2021-01-31,Chennai,Active,1289694.0,926
+367,Neha,Mishra,IT,Manager,2025-12-18,Bhubaneswar,Active,1592042.0,89
+368,Aanya,Jain,IT,Associate,2020-07-13,Bengaluru,Active,1354176.0,851
+369,Diya,Iyer,Warehouse,Executive,2018-11-21,Lucknow,Active,265526.0,737
+370,Nisha,Das,Finance,Executive,2021-10-16,Bhubaneswar,Active,1442707.0,506
+371,Kabir,Joshi,Warehouse,Analyst,2024-03-18,Lucknow,Leave,505709.0,61
+372,Sneha,Rao,Sales,Coordinator,2023-01-21,Kochi,Active,272442.0,564
+373,Kabir,Singh,Finance,Analyst,2026-03-02,Kochi,Active,936416.0,613
+374,Aanya,Kumar,IT,Executive,2021-04-02,Bhopal,Active,904823.0,398
+375,Neha,Nair,IT,Executive,2022-08-10,Nagpur,Active,1268615.0,468
+376,Karan,Patel,Finance,Associate,2022-07-30,Mumbai,Active,1185528.0,375
+377,Nisha,Das,Marketing,Analyst,2020-06-05,Hyderabad,Active,1028048.0,82
+378,Rahul,Nair,Operations,Specialist,2022-09-12,Ahmedabad,Active,469123.0,420
+379,Nisha,Nair,Marketing,Associate,2018-06-22,Hyderabad,Active,1273575.0,368
+380,Ishita,Shah,IT,Coordinator,2019-04-11,Hyderabad,Active,1005972.0,548
+381,Rohan,Patel,Customer Service,Associate,2020-05-03,Pune,Active,469723.0,51
+382,Sneha,Chauhan,Sales,Specialist,2019-06-20,Ahmedabad,Active,1376127.0,804
+383,Ananya,Patel,IT,Coordinator,2023-02-02,Coimbatore,Active,1353603.0,419
+384,Nisha,Sharma,Customer Service,Analyst,2018-02-17,Coimbatore,Active,1027565.0,439
+385,Meera,Mehta,Customer Service,Manager,2024-09-27,Coimbatore,Active,510946.0,795
+386,Priya,Malhotra,Operations,Manager,2018-09-09,Hyderabad,Active,1798940.0,961
+387,Ananya,Gupta,Finance,Executive,2020-04-01,Ahmedabad,Active,1165833.0,928
+388,Karan,Singh,Customer Service,Analyst,2023-09-06,Chennai,Active,1180411.0,808
+389,Rohan,Rao,Operations,Specialist,2019-08-13,Indore,Leave,1110538.0,341
+390,Aarav,Kapoor,Warehouse,Associate,2021-09-24,Delhi,Active,1398357.0,776
+391,Rahul,Singh,IT,Specialist,2020-07-03,Pune,Active,886780.0,82
+392,Karan,Shah,Operations,Specialist,2018-08-25,Bhubaneswar,Active,973958.0,721
+393,Meera,Joshi,IT,Manager,2020-01-18,Bengaluru,Exited,1328125.0,48
+394,Kavya,Gupta,Finance,Analyst,2022-03-09,Chennai,Active,1780738.0,960
+395,Kavya,Shah,Finance,Specialist,2018-05-14,Chandigarh,Leave,780198.0,964
+396,Aanya,Nair,IT,Coordinator,2018-09-29,Hyderabad,Active,1114818.0,68
+397,Aarav,Mehta,Customer Service,Specialist,2021-09-03,Nagpur,Active,321649.0,242
+398,Karan,Kumar,Finance,Associate,2020-08-02,Kolkata,Active,1266875.0,817
+399,Rohan,Sharma,Operations,Executive,2023-11-20,Jaipur,Active,1346887.0,146
+400,Sneha,Joshi,Operations,Manager,2020-01-30,Lucknow,Active,316266.0,638
+401,Rohan,Kapoor,Finance,Associate,2020-07-18,Bhubaneswar,Active,1052739.0,128
+402,Nisha,Rao,Marketing,Coordinator,2018-11-27,Jaipur,Active,246049.0,73
+403,Kabir,Mishra,Operations,Manager,2019-05-13,Lucknow,Active,1230917.0,898
+404,Karan,Nair,Finance,Specialist,2020-02-18,Chennai,Active,1214331.0,703
+405,Priya,Shah,Customer Service,Associate,2021-10-28,Bengaluru,Leave,1300579.0,973
+406,Aanya,Gupta,Sales,Specialist,2018-09-25,Bhubaneswar,Active,1258025.0,603
+407,Ananya,Sharma,Operations,Manager,2024-02-19,Bengaluru,Active,485863.0,947
+408,Sneha,Malhotra,Operations,Associate,2022-11-30,Surat,Active,934677.0,815
+409,Rohan,Verma,Warehouse,Specialist,2020-12-19,Ahmedabad,Active,1075441.0,943
+410,Meera,Malhotra,Warehouse,Analyst,2018-10-01,Chandigarh,Active,1309729.0,939
+411,Arjun,Singh,Marketing,Associate,2024-12-17,Kolkata,Active,263022.0,481
+412,Nisha,Jain,Finance,Specialist,2022-02-03,Kolkata,Active,857167.0,459
+413,Aarav,Mishra,Marketing,Manager,2022-03-08,Bhubaneswar,Active,500540.0,206
+414,Kavya,Das,Operations,Analyst,2019-07-25,Chennai,Active,1465971.0,741
+415,Riya,Agarwal,Finance,Analyst,2023-05-15,Bhopal,Active,429287.0,211
+416,Rohan,Joshi,Warehouse,Analyst,2022-11-22,Mumbai,Active,1234824.0,35
+417,Kabir,Gupta,Finance,Associate,2025-10-24,Pune,Exited,1499506.0,821
+418,Kabir,Nair,Marketing,Manager,2022-12-23,Kochi,Active,297814.0,51
+419,Rahul,Kumar,Customer Service,Manager,2020-06-10,Bhubaneswar,Active,347091.0,369
+420,Arjun,Mehta,Operations,Coordinator,2022-12-14,Lucknow,Active,1726446.0,928
+421,Priya,Mishra,Operations,Executive,2020-10-21,Chennai,Active,1559347.0,121
+422,Rohan,Kumar,Marketing,Manager,2021-11-22,Mumbai,Active,1323378.0,447
+423,Nisha,Jain,Finance,Executive,2023-02-06,Patna,Active,1613231.0,29
+424,Vikram,Reddy,IT,Associate,2018-11-18,Ahmedabad,Active,1112680.0,859
+425,Aanya,Sharma,Sales,Manager,2021-08-21,Nagpur,Leave,421126.0,91
+426,Ananya,Agarwal,Marketing,Coordinator,2018-10-07,Delhi,Active,655736.0,606
+427,Diya,Patel,Marketing,Specialist,2018-02-27,Chennai,Active,349394.0,89
+428,Ishita,Jain,Warehouse,Analyst,2023-08-26,Bengaluru,Active,1685964.0,74
+429,Vivaan,Mehta,Marketing,Executive,2018-07-28,Hyderabad,Active,992838.0,627
+430,Aanya,Nair,Marketing,Manager,2025-10-15,Indore,Active,756493.0,779
+431,Ishita,Nair,Sales,Associate,2021-04-28,Jaipur,Leave,926601.0,318
+432,Ishita,Nair,Customer Service,Manager,2020-04-12,Coimbatore,Active,548312.0,31
+433,Riya,Sharma,Sales,Analyst,2020-01-26,Nagpur,Active,1428442.0,992
+434,Diya,Singh,Sales,Analyst,2021-11-28,Chandigarh,Active,936438.0,499
+435,Neha,Mishra,Marketing,Executive,2025-10-09,Mumbai,Active,674664.0,715
+436,Aditya,Kumar,Sales,Executive,2020-06-04,Kochi,Active,548225.0,368
+437,Aditya,Rao,Operations,Specialist,2022-09-19,Coimbatore,Active,1217857.0,87
+438,Nisha,Mishra,Marketing,Manager,2018-12-07,Nagpur,Exited,979958.0,107
+439,Ishita,Iyer,Operations,Executive,2018-06-14,Bengaluru,Active,772454.0,123
+440,Ananya,Kapoor,Finance,Specialist,2025-02-20,Kolkata,Active,1410828.0,572
+441,Kavya,Kapoor,Finance,Analyst,2019-09-21,Bhubaneswar,Active,1726487.0,41
+442,Aanya,Iyer,Marketing,Coordinator,2018-02-16,Kolkata,Active,632266.0,415
+443,Kavya,Malhotra,Marketing,Manager,2022-07-03,Vadodara,Active,893174.0,933
+444,Aanya,Kapoor,Finance,Analyst,2022-11-22,Ahmedabad,Active,1275445.0,995
+445,Priya,Reddy,Operations,Associate,2019-10-09,Ahmedabad,Active,1761050.0,264
+446,Priya,Jain,Marketing,Coordinator,2021-06-07,Bhopal,Active,1496131.0,300
+447,Arjun,Agarwal,Sales,Coordinator,2023-06-13,Bhopal,Active,1017053.0,306
+448,Nisha,Singh,Warehouse,Specialist,2022-10-26,Ahmedabad,Active,609587.0,616
+449,Arjun,Shah,Finance,Executive,2024-03-20,Patna,Active,1203957.0,405
+450,Riya,Reddy,IT,Associate,2024-01-10,Coimbatore,Leave,584472.0,626
+451,Vikram,Mehta,Operations,Specialist,2020-07-05,Lucknow,Active,553221.0,759
+452,Kavya,Agarwal,Customer Service,Coordinator,2023-09-24,Ahmedabad,Active,320174.0,932
+453,Aditya,Mishra,Operations,Associate,2022-04-21,Chandigarh,Active,560803.0,516
+454,Rahul,Patel,Operations,Executive,2019-06-28,Ahmedabad,Active,1420666.0,158
+455,Ananya,Gupta,Customer Service,Associate,2021-04-22,Vadodara,Active,546250.0,376
+456,Priya,Iyer,IT,Analyst,2021-07-29,Chandigarh,Leave,510858.0,917
+457,Neha,Nair,Customer Service,Coordinator,2019-11-04,Indore,Active,1066338.0,869
+458,Vikram,Kapoor,Finance,Executive,2019-07-01,Surat,Active,1617881.0,490
+459,Sneha,Jain,Operations,Specialist,2019-01-26,Delhi,Active,1517267.0,238
+460,Kabir,Chauhan,IT,Specialist,2025-03-13,Jaipur,Leave,927896.0,568
+461,Diya,Mishra,Marketing,Executive,2025-06-19,Bhubaneswar,Active,638944.0,902
+462,Nisha,Verma,Warehouse,Coordinator,2020-10-09,Pune,Active,1531564.0,240
+463,Aanya,Sharma,Finance,Analyst,2020-10-02,Ahmedabad,Exited,950139.0,518
+464,Vivaan,Nair,Finance,Specialist,2025-04-22,Vadodara,Active,393865.0,440
+465,Aditya,Agarwal,IT,Coordinator,2024-12-18,Surat,Active,1470344.0,650
+466,Nisha,Singh,Sales,Specialist,2024-09-29,Bhopal,Active,1391234.0,836
+467,Aanya,Mehta,IT,Coordinator,2022-10-05,Nagpur,Exited,1125145.0,746
+468,Rahul,Reddy,Finance,Analyst,2022-04-13,Mumbai,Active,929739.0,490
+469,Nisha,Agarwal,Finance,Manager,2021-05-31,Coimbatore,Exited,341451.0,369
+470,Ishita,Mehta,Operations,Associate,2024-12-18,Bengaluru,Active,564213.0,234
+471,Karan,Joshi,IT,Manager,2019-12-03,Kochi,Active,720809.0,580
+472,Kabir,Das,Marketing,Specialist,2022-02-18,Vadodara,Active,1586063.0,580
+473,Ananya,Shah,IT,Analyst,2019-03-30,Ahmedabad,Active,1041808.0,66
+474,Karan,Chauhan,Customer Service,Manager,2022-01-19,Delhi,Active,1015319.0,90
+475,Ananya,Mishra,Finance,Coordinator,2021-05-29,Mumbai,Active,1715432.0,856
+476,Karan,Patel,Sales,Coordinator,2018-07-10,Kolkata,Active,1384103.0,247
+477,Kabir,Gupta,Marketing,Manager,2024-07-21,Lucknow,Active,1544650.0,319
+478,Nisha,Das,Operations,Manager,2020-09-04,Ahmedabad,Active,464362.0,371
+479,Kabir,Verma,Sales,Manager,2023-04-05,Jaipur,Active,665798.0,988
+480,Meera,Iyer,Warehouse,Executive,2018-02-28,Indore,Active,1237820.0,991
+481,Neha,Malhotra,Sales,Coordinator,2019-03-12,Chandigarh,Active,944281.0,632
+482,Ishita,Gupta,Operations,Associate,2022-03-29,Jaipur,Active,428294.0,811
+483,Karan,Shah,Finance,Executive,2018-02-03,Nagpur,Active,1163300.0,406
+484,Rahul,Agarwal,Finance,Analyst,2023-05-23,Chennai,Exited,676786.0,9
+485,Kavya,Nair,Warehouse,Manager,2023-12-12,Surat,Active,248023.0,899
+486,Riya,Kumar,Sales,Executive,2024-01-18,Jaipur,Active,392437.0,629
+487,Rohan,Singh,Finance,Coordinator,2025-11-02,Kochi,Active,827124.0,809
+488,Aarav,Kumar,IT,Associate,2023-01-19,Indore,Active,1733299.0,453
+489,Diya,Rao,Finance,Associate,2025-08-01,Ahmedabad,Active,1584571.0,528
+490,Karan,Reddy,Customer Service,Associate,2024-03-20,Chennai,Exited,1438555.0,281
+491,Arjun,Malhotra,Warehouse,Coordinator,2019-03-25,Kochi,Active,266299.0,206
+492,Sneha,Mishra,Warehouse,Analyst,2026-01-24,Kolkata,Active,1575390.0,96
+493,Diya,Joshi,IT,Executive,2019-08-09,Ahmedabad,Active,519974.0,571
+494,Karan,Kumar,IT,Associate,2025-11-19,Nagpur,Active,1290123.0,49
+495,Neha,Singh,Marketing,Specialist,2020-06-03,Chandigarh,Active,1793360.0,844
+496,Vivaan,Verma,Sales,Associate,2018-02-25,Lucknow,Active,1553747.0,956
+497,Ishita,Joshi,Finance,Analyst,2022-05-01,Patna,Active,671656.0,165
+498,Aditya,Mishra,Operations,Executive,2019-03-19,Mumbai,Active,940716.0,25
+499,Vivaan,Nair,Finance,Analyst,2021-02-18,Chennai,Active,1671941.0,474
+500,Kavya,Iyer,Marketing,Analyst,2021-10-24,Ahmedabad,Active,1017486.0,168
+501,Aanya,Singh,Customer Service,Associate,2018-05-19,Surat,Active,1002118.0,908
+502,Riya,Mehta,Finance,Analyst,2025-03-06,Chennai,Active,1474102.0,275
+503,Neha,Chauhan,Finance,Manager,2021-10-08,Hyderabad,Active,624964.0,195
+504,Meera,Verma,IT,Specialist,2020-08-18,Lucknow,Active,796866.0,414
+505,Aanya,Nair,Customer Service,Coordinator,2018-01-15,Nagpur,Active,538360.0,227
+506,Meera,Kumar,Customer Service,Associate,2019-09-13,Chandigarh,Active,1409716.0,59
+507,Nisha,Shah,Warehouse,Executive,2020-06-17,Delhi,Active,1766752.0,843
+508,Meera,Mehta,Warehouse,Manager,2018-02-24,Bhopal,Active,879489.0,182
+509,Vikram,Joshi,Marketing,Manager,2025-07-09,Surat,Active,1514304.0,568
+510,Vikram,Jain,Customer Service,Coordinator,2026-03-17,Indore,Active,615159.0,828
+511,Priya,Mehta,Customer Service,Executive,2019-12-02,Patna,Active,966337.0,889
+512,Kavya,Rao,Marketing,Coordinator,2023-05-12,Lucknow,Active,1405420.0,141
+513,Karan,Patel,Finance,Manager,2021-01-19,Mumbai,Active,1799312.0,71
+514,Sneha,Iyer,Warehouse,Executive,2021-08-05,Kolkata,Active,1788135.0,169
+515,Ananya,Jain,IT,Coordinator,2020-05-25,Bengaluru,Exited,270429.0,551
+516,Kabir,Jain,Operations,Executive,2025-08-14,Surat,Active,496687.0,843
+517,Karan,Verma,Warehouse,Analyst,2025-11-14,Hyderabad,Active,321740.0,990
+518,Karan,Joshi,Warehouse,Analyst,2025-12-22,Bhopal,Active,1736080.0,144
+519,Vivaan,Mishra,Operations,Analyst,2024-10-14,Bengaluru,Active,1792272.0,159
+520,Nisha,Iyer,Operations,Executive,2019-01-06,Jaipur,Active,1466563.0,335
+521,Priya,Jain,Marketing,Specialist,2020-04-22,Vadodara,Active,1588042.0,958
+522,Kabir,Das,Customer Service,Analyst,2022-06-29,Coimbatore,Active,1770803.0,966
+523,Arjun,Gupta,Finance,Specialist,2022-03-07,Lucknow,Exited,1597914.0,157
+524,Priya,Malhotra,Customer Service,Executive,2018-11-26,Lucknow,Active,341763.0,104
+525,Sneha,Jain,Operations,Executive,2024-12-18,Vadodara,Active,999343.0,194
+526,Meera,Kumar,Operations,Specialist,2018-03-24,Jaipur,Active,1057376.0,516
+527,Diya,Iyer,Warehouse,Coordinator,2018-09-29,Kochi,Active,1761172.0,559
+528,Neha,Patel,Finance,Coordinator,2020-02-16,Chennai,Active,728858.0,190
+529,Ishita,Das,Operations,Analyst,2018-10-03,Chennai,Active,553572.0,424
+530,Priya,Jain,IT,Manager,2025-06-19,Vadodara,Active,1129728.0,697
+531,Karan,Mehta,Customer Service,Executive,2021-08-07,Chennai,Active,1166278.0,98
+532,Aarav,Kumar,Marketing,Manager,2021-07-17,Bhopal,Active,344094.0,538
+533,Neha,Singh,Finance,Analyst,2025-10-19,Chandigarh,Active,346829.0,300
+534,Arjun,Nair,Sales,Manager,2022-12-23,Ahmedabad,Active,1128358.0,323
+535,Aditya,Mehta,Customer Service,Specialist,2020-04-07,Chennai,Active,1273058.0,828
+536,Aanya,Das,Operations,Coordinator,2018-01-23,Chandigarh,Active,383861.0,53
+537,Aanya,Singh,Customer Service,Manager,2025-05-09,Kolkata,Active,414528.0,814
+538,Aanya,Reddy,Finance,Analyst,2023-09-26,Vadodara,Active,390348.0,132
+539,Aditya,Joshi,Marketing,Executive,2021-07-02,Lucknow,Exited,1582795.0,592
+540,Kabir,Jain,Finance,Executive,2025-02-22,Delhi,Active,1681535.0,896
+541,Kavya,Shah,Finance,Executive,2022-04-28,Jaipur,Active,375724.0,88
+542,Meera,Sharma,IT,Analyst,2020-04-23,Kochi,Active,931329.0,475
+543,Aanya,Gupta,Operations,Manager,2024-04-30,Lucknow,Active,1524935.0,845
+544,Ananya,Nair,Customer Service,Manager,2022-06-24,Surat,Active,1174934.0,280
+545,Priya,Das,Marketing,Coordinator,2023-02-23,Bengaluru,Active,1027967.0,559
+546,Arjun,Verma,Sales,Associate,2021-03-23,Mumbai,Active,319821.0,249
+547,Priya,Nair,Marketing,Coordinator,2023-02-21,Kochi,Active,1671622.0,142
+548,Nisha,Gupta,Operations,Analyst,2018-11-27,Chennai,Active,344640.0,908
+549,Karan,Mishra,Warehouse,Coordinator,2020-05-29,Bengaluru,Active,536604.0,252
+550,Riya,Rao,Marketing,Analyst,2018-10-06,Indore,Leave,1333345.0,714
+551,Karan,Malhotra,IT,Manager,2024-06-07,Coimbatore,Active,701584.0,724
+552,Kabir,Kapoor,Customer Service,Coordinator,2024-03-31,Bengaluru,Active,1351590.0,252
+553,Ishita,Kumar,Warehouse,Analyst,2019-03-28,Lucknow,Active,1703473.0,843
+554,Karan,Iyer,Warehouse,Executive,2022-12-22,Kochi,Active,1649674.0,309
+555,Neha,Singh,Warehouse,Associate,2024-08-28,Patna,Active,605993.0,496
+556,Kavya,Mehta,Warehouse,Coordinator,2018-04-15,Pune,Active,744310.0,674
+557,Meera,Reddy,Finance,Coordinator,2019-11-08,Jaipur,Active,553971.0,786
+558,Neha,Joshi,Marketing,Executive,2020-02-09,Indore,Active,785462.0,498
+559,Vivaan,Shah,Finance,Executive,2025-10-14,Surat,Active,664626.0,653
+560,Sneha,Shah,Sales,Analyst,2022-07-12,Delhi,Active,890296.0,421
+561,Aarav,Nair,Sales,Associate,2024-10-25,Chennai,Active,1512265.0,783
+562,Vivaan,Jain,IT,Coordinator,2021-11-27,Chennai,Active,369409.0,636
+563,Nisha,Jain,Sales,Coordinator,2018-04-23,Chandigarh,Active,684363.0,898
+564,Vikram,Joshi,Operations,Manager,2024-02-16,Nagpur,Active,247844.0,550
+565,Aditya,Chauhan,Sales,Manager,2023-08-04,Lucknow,Active,866566.0,347
+566,Priya,Agarwal,Warehouse,Executive,2025-07-01,Patna,Active,1302779.0,626
+567,Karan,Patel,Warehouse,Manager,2020-01-07,Hyderabad,Active,541192.0,101
+568,Aanya,Das,Finance,Associate,2018-03-17,Delhi,Active,1509963.0,410
+569,Rohan,Nair,Operations,Associate,2018-11-27,Indore,Active,816274.0,357
+570,Rahul,Agarwal,Sales,Associate,2020-06-10,Kochi,Exited,905334.0,305
+571,Vivaan,Patel,Customer Service,Associate,2022-12-03,Bhubaneswar,Active,1290865.0,826
+572,Vivaan,Das,Warehouse,Analyst,2021-10-26,Vadodara,Active,1692245.0,557
+573,Diya,Nair,Finance,Executive,2018-05-31,Hyderabad,Active,1768783.0,513
+574,Ishita,Kumar,Operations,Associate,2022-08-19,Bhubaneswar,Active,1400421.0,719
+575,Aanya,Verma,Customer Service,Coordinator,2023-04-23,Patna,Active,241487.0,72
+576,Diya,Singh,Customer Service,Specialist,2022-09-03,Delhi,Active,960186.0,703
+577,Ananya,Das,Customer Service,Analyst,2021-10-25,Kolkata,Active,1440822.0,692
+578,Sneha,Kapoor,Marketing,Coordinator,2018-05-13,Chennai,Active,452095.0,392
+579,Ishita,Mishra,IT,Analyst,2021-09-16,Chandigarh,Active,1570544.0,350
+580,Aarav,Das,Finance,Executive,2023-09-09,Mumbai,Active,1214694.0,601
+581,Vikram,Reddy,IT,Associate,2019-12-30,Delhi,Active,774004.0,952
+582,Aanya,Iyer,IT,Executive,2024-01-15,Indore,Active,1018823.0,369
+583,Diya,Das,Operations,Manager,2026-01-20,Coimbatore,Active,1183551.0,647
+584,Nisha,Gupta,Finance,Analyst,2023-12-24,Bengaluru,Active,963829.0,638
+585,Arjun,Malhotra,Customer Service,Specialist,2023-12-11,Nagpur,Active,1598861.0,459
+586,Rohan,Kumar,Operations,Specialist,2021-08-14,Chennai,Exited,1155517.0,206
+587,Rahul,Joshi,Warehouse,Specialist,2020-01-10,Mumbai,Active,1065613.0,639
+588,Aarav,Rao,Sales,Associate,2020-01-08,Chandigarh,Active,1465835.0,546
+589,Rahul,Agarwal,Operations,Associate,2024-01-15,Jaipur,Active,610811.0,948
+590,Rahul,Iyer,Warehouse,Executive,2018-09-07,Chennai,Active,1531887.0,173
+591,Ananya,Nair,Marketing,Executive,2020-06-25,Chennai,Active,600269.0,697
+592,Kabir,Das,Operations,Analyst,2019-02-27,Chennai,Active,1150410.0,197
+593,Arjun,Gupta,Operations,Associate,2019-12-14,Surat,Active,956453.0,751
+594,Vivaan,Patel,Marketing,Executive,2022-01-22,Bhubaneswar,Active,1062579.0,512
+595,Vikram,Nair,Marketing,Coordinator,2020-02-12,Delhi,Active,944681.0,615
+596,Aditya,Chauhan,Operations,Coordinator,2019-06-25,Jaipur,Active,1109919.0,514
+597,Diya,Nair,Sales,Analyst,2020-12-13,Kolkata,Active,533509.0,210
+598,Aarav,Kumar,Marketing,Manager,2020-04-23,Lucknow,Active,921726.0,287
+599,Diya,Shah,Sales,Analyst,2024-10-09,Kolkata,Leave,1365303.0,440
+600,Rahul,Reddy,Customer Service,Specialist,2020-02-29,Nagpur,Active,1008004.0,369
+601,Vivaan,Iyer,Finance,Executive,2021-04-12,Lucknow,Active,1244784.0,444
+602,Sneha,Iyer,Finance,Analyst,2023-03-15,Nagpur,Active,1683605.0,627
+603,Riya,Rao,IT,Specialist,2025-04-28,Hyderabad,Active,1095601.0,506
+604,Rohan,Jain,Customer Service,Associate,2026-02-12,Lucknow,Active,1106899.0,93
+605,Vivaan,Das,Operations,Executive,2018-10-12,Lucknow,Active,375781.0,846
+606,Aanya,Iyer,Marketing,Analyst,2021-04-17,Jaipur,Active,702009.0,491
+607,Arjun,Reddy,Customer Service,Coordinator,2018-03-18,Bengaluru,Active,1368833.0,219
+608,Diya,Iyer,IT,Coordinator,2023-03-01,Mumbai,Active,517591.0,522
+609,Kabir,Verma,IT,Executive,2019-08-19,Kochi,Active,1378233.0,617
+610,Diya,Nair,IT,Manager,2018-01-31,Bengaluru,Active,851748.0,793
+611,Arjun,Kumar,Warehouse,Associate,2022-09-06,Kolkata,Leave,474223.0,139
+612,Meera,Patel,Finance,Analyst,2020-05-25,Vadodara,Active,368718.0,448
+613,Kabir,Singh,Finance,Executive,2023-12-26,Vadodara,Active,1604698.0,908
+614,Aarav,Mishra,Finance,Manager,2026-01-22,Vadodara,Active,906293.0,27
+615,Diya,Nair,Sales,Manager,2021-03-11,Bhopal,Exited,1649525.0,259
+616,Riya,Mishra,Operations,Coordinator,2025-08-03,Kolkata,Active,1683499.0,840
+617,Rahul,Mehta,Operations,Associate,2025-06-12,Chennai,Active,1347850.0,52
+618,Aarav,Shah,Sales,Manager,2019-06-30,Bhopal,Active,667435.0,480
+619,Priya,Kapoor,Operations,Coordinator,2019-12-07,Surat,Active,1744925.0,84
+620,Ishita,Shah,Sales,Associate,2021-12-13,Vadodara,Exited,1711826.0,352
+621,Vivaan,Shah,Finance,Executive,2022-02-17,Pune,Active,1523191.0,340
+622,Riya,Shah,Operations,Executive,2021-05-18,Ahmedabad,Exited,1366911.0,573
+623,Neha,Gupta,Finance,Analyst,2024-01-27,Bhopal,Active,1532347.0,15
+624,Aanya,Mishra,Finance,Associate,2018-08-11,Ahmedabad,Active,251187.0,188
+625,Sneha,Rao,Operations,Coordinator,2021-04-14,Lucknow,Active,831133.0,534
+626,Vivaan,Jain,IT,Coordinator,2022-07-29,Vadodara,Active,573266.0,345
+627,Aanya,Iyer,Marketing,Specialist,2018-11-12,Lucknow,Active,1793720.0,681
+628,Rohan,Mishra,Customer Service,Specialist,2019-06-01,Kolkata,Active,475132.0,132
+629,Aanya,Das,Sales,Analyst,2022-12-14,Hyderabad,Active,645965.0,737
+630,Meera,Singh,Operations,Analyst,2025-06-19,Bhopal,Active,325101.0,745
+631,Kabir,Nair,Warehouse,Coordinator,2018-11-13,Surat,Active,628140.0,863
+632,Priya,Joshi,Operations,Executive,2023-01-25,Mumbai,Active,1390713.0,767
+633,Vikram,Verma,Operations,Associate,2024-09-06,Delhi,Active,257670.0,600
+634,Vikram,Mishra,Sales,Manager,2021-11-02,Delhi,Active,782254.0,534
+635,Meera,Reddy,Warehouse,Analyst,2018-05-21,Ahmedabad,Active,1331998.0,13
+636,Kabir,Mishra,IT,Analyst,2020-07-18,Vadodara,Active,399300.0,816
+637,Priya,Patel,Customer Service,Manager,2018-08-16,Pune,Active,1453263.0,143
+638,Karan,Agarwal,Operations,Specialist,2025-09-26,Vadodara,Active,1563090.0,422
+639,Riya,Singh,IT,Associate,2018-01-13,Chennai,Active,1724191.0,963
+640,Karan,Das,Operations,Associate,2021-06-14,Kolkata,Active,1442312.0,284
+641,Rohan,Mehta,Warehouse,Associate,2022-09-12,Bhubaneswar,Active,1667492.0,272
+642,Riya,Singh,Operations,Associate,2018-08-08,Bhubaneswar,Active,631472.0,137
+643,Priya,Jain,Finance,Coordinator,2023-05-01,Hyderabad,Active,1253573.0,182
+644,Diya,Mishra,Sales,Executive,2025-10-13,Coimbatore,Active,1663834.0,973
+645,Meera,Joshi,Operations,Coordinator,2018-01-20,Delhi,Active,268007.0,169
+646,Vikram,Nair,Marketing,Executive,2021-09-10,Ahmedabad,Active,740661.0,557
+647,Neha,Das,Operations,Specialist,2021-06-07,Mumbai,Active,1736681.0,46
+648,Kavya,Singh,Sales,Manager,2023-01-25,Vadodara,Active,1356414.0,362
+649,Diya,Patel,Operations,Associate,2020-05-12,Indore,Active,727318.0,625
+650,Kabir,Singh,IT,Coordinator,2019-04-08,Vadodara,Active,1728056.0,240
+651,Neha,Patel,IT,Specialist,2019-12-30,Hyderabad,Active,703430.0,408
+652,Rohan,Joshi,Customer Service,Specialist,2024-12-23,Delhi,Active,322357.0,296
+653,Ishita,Gupta,IT,Executive,2018-12-07,Bengaluru,Active,1426762.0,922
+654,Sneha,Rao,Operations,Coordinator,2020-05-30,Kochi,Active,1376510.0,391
+655,Kabir,Joshi,Marketing,Specialist,2024-05-05,Indore,Active,744551.0,935
+656,Aditya,Sharma,Operations,Manager,2021-04-21,Chandigarh,Active,554905.0,135
+657,Neha,Mehta,Finance,Specialist,2019-01-02,Mumbai,Active,1563831.0,18
+658,Meera,Iyer,Marketing,Executive,2024-11-06,Bhopal,Active,1672824.0,28
+659,Neha,Rao,Finance,Executive,2022-01-24,Mumbai,Active,913396.0,957
+660,Riya,Mishra,Warehouse,Manager,2025-06-20,Surat,Active,505517.0,1000
+661,Riya,Mishra,Finance,Manager,2018-11-28,Kolkata,Active,342153.0,182
+662,Sneha,Sharma,Marketing,Executive,2018-09-04,Bengaluru,Exited,1027509.0,829
+663,Ishita,Patel,IT,Analyst,2021-02-23,Kolkata,Active,1038817.0,142
+664,Karan,Das,Warehouse,Manager,2021-01-14,Jaipur,Active,1271395.0,184
+665,Karan,Chauhan,IT,Manager,2024-06-21,Nagpur,Active,713375.0,395
+666,Aarav,Agarwal,Finance,Specialist,2026-01-12,Mumbai,Active,1774075.0,144
+667,Vikram,Patel,Finance,Specialist,2021-10-30,Mumbai,Leave,379376.0,91
+668,Kavya,Singh,Operations,Coordinator,2018-03-14,Ahmedabad,Active,1085919.0,168
+669,Rohan,Singh,IT,Analyst,2023-09-24,Kochi,Active,520653.0,523
+670,Ishita,Rao,Sales,Manager,2018-08-31,Nagpur,Active,1135728.0,904
+671,Diya,Shah,Sales,Specialist,2025-04-27,Chandigarh,Active,1720309.0,525
+672,Riya,Mehta,Sales,Manager,2020-05-01,Vadodara,Active,1245829.0,64
+673,Aarav,Mishra,Warehouse,Coordinator,2020-07-01,Ahmedabad,Active,1584067.0,7
+674,Kabir,Reddy,Sales,Associate,2023-03-25,Lucknow,Exited,928316.0,464
+675,Diya,Das,IT,Specialist,2019-08-04,Kolkata,Active,590749.0,62
+676,Kabir,Iyer,Warehouse,Analyst,2019-04-27,Patna,Active,785653.0,58
+677,Aarav,Malhotra,Warehouse,Manager,2020-09-01,Kochi,Active,1439742.0,788
+678,Ananya,Nair,Customer Service,Manager,2019-09-13,Bhopal,Active,294795.0,271
+679,Neha,Malhotra,Marketing,Manager,2025-02-18,Ahmedabad,Active,688561.0,231
+680,Sneha,Joshi,IT,Specialist,2021-03-06,Patna,Active,1272035.0,755
+681,Karan,Shah,Warehouse,Coordinator,2018-03-14,Mumbai,Active,1426854.0,132
+682,Aditya,Reddy,Warehouse,Manager,2025-10-06,Vadodara,Active,1290282.0,958
+683,Ananya,Mishra,Marketing,Executive,2019-07-06,Pune,Active,1403006.0,76
+684,Rohan,Joshi,Customer Service,Executive,2019-04-24,Delhi,Active,1327038.0,772
+685,Nisha,Sharma,Marketing,Analyst,2021-07-11,Bengaluru,Active,253589.0,389
+686,Kavya,Malhotra,Finance,Associate,2023-02-03,Ahmedabad,Active,403047.0,805
+687,Riya,Sharma,Operations,Executive,2022-05-19,Delhi,Active,1629807.0,368
+688,Kavya,Reddy,Operations,Coordinator,2024-09-05,Ahmedabad,Active,1634776.0,995
+689,Karan,Jain,Customer Service,Associate,2018-10-18,Chennai,Active,548464.0,732
+690,Riya,Sharma,Operations,Specialist,2019-05-13,Ahmedabad,Active,613814.0,257
+691,Riya,Shah,Operations,Manager,2025-08-25,Coimbatore,Active,1025401.0,163
+692,Karan,Kapoor,Sales,Specialist,2020-03-25,Delhi,Active,510605.0,339
+693,Priya,Rao,Customer Service,Manager,2023-12-13,Patna,Active,1686882.0,213
+694,Rohan,Joshi,Finance,Specialist,2026-01-21,Mumbai,Active,697658.0,715
+695,Neha,Gupta,Operations,Associate,2022-08-10,Kolkata,Active,604239.0,19
+696,Neha,Reddy,Customer Service,Associate,2023-05-01,Kochi,Active,486953.0,106
+697,Aarav,Nair,Sales,Coordinator,2023-09-20,Indore,Active,1015611.0,461
+698,Neha,Agarwal,Warehouse,Specialist,2019-07-16,Ahmedabad,Active,860931.0,550
+699,Sneha,Verma,Customer Service,Coordinator,2022-11-20,Bhopal,Active,1194761.0,915
+700,Arjun,Sharma,Operations,Analyst,2019-01-04,Coimbatore,Active,1005050.0,322
+701,Vivaan,Jain,Warehouse,Executive,2022-12-01,Nagpur,Active,1008256.0,44
+702,Aanya,Iyer,Sales,Manager,2021-08-29,Nagpur,Active,1110462.0,252
+703,Aarav,Agarwal,Sales,Associate,2022-08-31,Mumbai,Active,1218006.0,258
+704,Arjun,Rao,Warehouse,Associate,2018-07-20,Indore,Exited,1211360.0,131
+705,Vikram,Shah,Operations,Associate,2022-03-09,Jaipur,Active,1408662.0,50
+706,Nisha,Jain,Warehouse,Analyst,2024-03-09,Bengaluru,Active,920297.0,832
+707,Meera,Sharma,Sales,Executive,2021-06-03,Hyderabad,Active,1140690.0,456
+708,Rahul,Rao,Marketing,Executive,2020-12-08,Bhubaneswar,Active,1594919.0,170
+709,Kabir,Mishra,Operations,Executive,2024-05-21,Delhi,Active,265263.0,589
+710,Diya,Reddy,Customer Service,Executive,2025-03-09,Bhubaneswar,Exited,1560275.0,260
+711,Meera,Verma,IT,Analyst,2021-01-24,Chennai,Active,1188315.0,380
+712,Riya,Agarwal,IT,Coordinator,2023-10-26,Kochi,Active,1514718.0,227
+713,Rahul,Patel,Sales,Associate,2018-11-04,Ahmedabad,Exited,786463.0,573
+714,Diya,Iyer,Warehouse,Manager,2026-03-11,Hyderabad,Active,1770285.0,904
+715,Rohan,Shah,Marketing,Executive,2021-04-26,Indore,Active,249668.0,80
+716,Nisha,Singh,Customer Service,Executive,2025-08-18,Delhi,Active,1324541.0,380
+717,Priya,Iyer,Sales,Analyst,2019-03-02,Indore,Active,586563.0,759
+718,Kavya,Sharma,Finance,Specialist,2022-02-28,Bhopal,Active,409701.0,166
+719,Vikram,Joshi,Customer Service,Executive,2025-08-26,Bhopal,Active,866820.0,129
+720,Aditya,Mishra,Operations,Executive,2018-07-08,Chennai,Active,717036.0,260
+721,Rahul,Sharma,Finance,Specialist,2025-12-22,Ahmedabad,Active,1692372.0,62
+722,Rohan,Mishra,IT,Coordinator,2020-10-06,Indore,Active,1707346.0,108
+723,Nisha,Singh,Marketing,Manager,2019-02-01,Chandigarh,Active,830559.0,938
+724,Diya,Chauhan,Finance,Executive,2025-06-18,Vadodara,Active,810973.0,541
+725,Nisha,Kapoor,Warehouse,Coordinator,2025-09-27,Surat,Active,399781.0,5
+726,Vivaan,Verma,Warehouse,Coordinator,2019-01-30,Kolkata,Active,875317.0,144
+727,Karan,Shah,IT,Associate,2019-11-03,Vadodara,Leave,1794387.0,201
+728,Aanya,Gupta,Operations,Specialist,2022-01-02,Nagpur,Active,733571.0,391
+729,Diya,Iyer,IT,Manager,2019-06-29,Lucknow,Active,979965.0,221
+730,Diya,Agarwal,Sales,Coordinator,2018-05-20,Lucknow,Active,1502434.0,826
+731,Karan,Jain,Warehouse,Associate,2021-07-31,Bhubaneswar,Active,1647329.0,51
+732,Riya,Agarwal,Warehouse,Coordinator,2024-11-27,Delhi,Active,850238.0,614
+733,Karan,Malhotra,Operations,Coordinator,2024-02-03,Pune,Active,1367717.0,10
+734,Aarav,Malhotra,IT,Analyst,2019-02-02,Kochi,Active,1664915.0,234
+735,Aditya,Gupta,Finance,Manager,2020-12-12,Mumbai,Active,516276.0,495
+736,Ishita,Joshi,Warehouse,Coordinator,2018-10-05,Nagpur,Active,630127.0,976
+737,Karan,Iyer,Marketing,Associate,2023-06-08,Delhi,Active,1798625.0,289
+738,Arjun,Kumar,Warehouse,Coordinator,2023-12-08,Indore,Active,793257.0,107
+739,Aarav,Das,IT,Analyst,2018-07-28,Lucknow,Exited,351017.0,971
+740,Riya,Patel,Customer Service,Analyst,2018-07-18,Coimbatore,Active,1185021.0,478
+741,Ishita,Kumar,Finance,Manager,2025-12-31,Hyderabad,Active,1079891.0,423
+742,Aanya,Reddy,Marketing,Manager,2018-11-17,Chennai,Active,1115190.0,859
+743,Karan,Sharma,Operations,Coordinator,2022-12-29,Kochi,Exited,1583644.0,271
+744,Riya,Chauhan,Warehouse,Manager,2020-06-09,Pune,Active,329299.0,838
+745,Rohan,Singh,Warehouse,Manager,2023-10-29,Nagpur,Active,864565.0,99
+746,Aanya,Sharma,Warehouse,Associate,2024-09-16,Patna,Active,308319.0,557
+747,Aanya,Iyer,Customer Service,Analyst,2019-03-04,Pune,Active,1232366.0,801
+748,Riya,Malhotra,Customer Service,Analyst,2018-05-18,Bengaluru,Active,831633.0,280
+749,Aarav,Agarwal,Marketing,Associate,2019-03-10,Mumbai,Active,907911.0,634
+750,Diya,Mehta,Marketing,Manager,2026-03-05,Lucknow,Active,681465.0,48
+751,Aarav,Chauhan,Sales,Associate,2019-11-13,Jaipur,Active,1269006.0,816
+752,Neha,Agarwal,IT,Executive,2018-08-21,Mumbai,Active,1747269.0,238
+753,Diya,Iyer,Warehouse,Specialist,2019-02-12,Coimbatore,Active,495435.0,715
+754,Neha,Verma,IT,Associate,2021-01-16,Bengaluru,Active,1619110.0,299
+755,Rahul,Sharma,IT,Coordinator,2023-02-28,Ahmedabad,Active,584302.0,851
+756,Nisha,Iyer,Operations,Coordinator,2023-06-29,Lucknow,Active,1113884.0,591
+757,Nisha,Joshi,Marketing,Manager,2021-10-19,Chandigarh,Active,980045.0,818
+758,Ishita,Chauhan,Warehouse,Coordinator,2024-11-04,Bhopal,Active,978996.0,571
+759,Aanya,Joshi,Marketing,Executive,2019-09-01,Hyderabad,Active,783913.0,477
+760,Aarav,Verma,Customer Service,Specialist,2022-11-30,Nagpur,Active,363247.0,958
+761,Vikram,Reddy,Warehouse,Coordinator,2019-07-06,Chennai,Active,1088897.0,666
+762,Arjun,Iyer,Customer Service,Coordinator,2023-08-14,Pune,Active,1227483.0,975
+763,Meera,Singh,Operations,Analyst,2025-10-21,Kochi,Exited,456702.0,402
+764,Diya,Shah,IT,Specialist,2019-04-07,Ahmedabad,Active,381469.0,948
+765,Arjun,Jain,Customer Service,Coordinator,2021-04-13,Bengaluru,Active,385926.0,165
+766,Kavya,Rao,Warehouse,Specialist,2021-05-15,Mumbai,Active,1471897.0,369
+767,Neha,Gupta,Finance,Associate,2022-06-04,Surat,Active,1699572.0,476
+768,Aarav,Rao,IT,Manager,2025-05-02,Kochi,Active,376542.0,155
+769,Riya,Gupta,Finance,Coordinator,2020-08-05,Jaipur,Active,1492117.0,167
+770,Aditya,Rao,Warehouse,Executive,2023-08-25,Chandigarh,Active,307215.0,302
+771,Diya,Verma,Operations,Executive,2021-04-20,Bhopal,Active,948760.0,694
+772,Nisha,Nair,Marketing,Executive,2025-07-09,Surat,Active,1157649.0,632
+773,Ishita,Rao,Sales,Specialist,2022-10-08,Pune,Active,1589297.0,312
+774,Vivaan,Mishra,IT,Coordinator,2022-06-17,Patna,Active,1435094.0,28
+775,Vivaan,Sharma,IT,Manager,2018-09-25,Delhi,Exited,265247.0,876
+776,Kabir,Shah,Marketing,Analyst,2022-09-03,Lucknow,Active,1294818.0,824
+777,Priya,Agarwal,Operations,Executive,2018-10-01,Pune,Active,251049.0,430
+778,Sneha,Sharma,Sales,Specialist,2023-10-04,Kolkata,Active,856175.0,249
+779,Karan,Kumar,Operations,Manager,2020-09-08,Patna,Active,1132409.0,908
+780,Rohan,Verma,Warehouse,Coordinator,2019-09-18,Nagpur,Active,554801.0,945
+781,Ananya,Malhotra,IT,Associate,2024-10-01,Surat,Active,1770376.0,338
+782,Aanya,Verma,Operations,Analyst,2021-11-04,Lucknow,Active,1152744.0,262
+783,Rahul,Mishra,Warehouse,Specialist,2021-08-20,Hyderabad,Active,423377.0,436
+784,Ishita,Nair,Warehouse,Associate,2024-05-28,Mumbai,Active,1582821.0,841
+785,Aarav,Agarwal,Operations,Specialist,2024-12-29,Bhubaneswar,Active,244304.0,471
+786,Diya,Sharma,Finance,Specialist,2019-11-29,Kolkata,Active,451146.0,165
+787,Aarav,Kumar,Customer Service,Analyst,2023-07-09,Surat,Active,1640580.0,514
+788,Rahul,Jain,Operations,Executive,2019-11-17,Kolkata,Active,840542.0,293
+789,Diya,Kumar,Customer Service,Specialist,2025-02-07,Pune,Active,1221708.0,104
+790,Vikram,Kumar,Sales,Manager,2021-10-10,Pune,Active,1538883.0,928
+791,Diya,Patel,Warehouse,Specialist,2023-05-29,Pune,Active,266869.0,561
+792,Rohan,Das,Finance,Manager,2023-12-28,Vadodara,Active,456427.0,151
+793,Sneha,Patel,Warehouse,Coordinator,2024-09-27,Lucknow,Active,990329.0,116
+794,Diya,Sharma,Operations,Executive,2022-02-23,Bengaluru,Active,985765.0,634
+795,Karan,Mehta,IT,Analyst,2024-03-16,Kolkata,Active,1641055.0,749
+796,Kabir,Joshi,Marketing,Specialist,2021-10-20,Coimbatore,Active,447597.0,557
+797,Aanya,Gupta,IT,Specialist,2025-10-20,Bhubaneswar,Active,1488564.0,483
+798,Nisha,Das,IT,Specialist,2019-09-12,Jaipur,Active,1661810.0,130
+799,Ananya,Chauhan,IT,Manager,2025-01-04,Pune,Active,1073126.0,102
+800,Ananya,Iyer,Marketing,Manager,2022-05-04,Pune,Active,1368216.0,881
+801,Ananya,Gupta,Operations,Executive,2025-05-08,Bhopal,Active,1075187.0,324
+802,Priya,Jain,Customer Service,Associate,2019-11-07,Hyderabad,Active,261167.0,2
+803,Karan,Agarwal,Marketing,Manager,2018-06-20,Nagpur,Active,312971.0,969
+804,Meera,Jain,Customer Service,Specialist,2023-06-03,Pune,Active,1488180.0,287
+805,Arjun,Das,Finance,Coordinator,2020-07-06,Patna,Active,363119.0,501
+806,Ishita,Joshi,Customer Service,Analyst,2018-08-28,Bengaluru,Active,1505663.0,707
+807,Nisha,Chauhan,Operations,Executive,2019-05-28,Chennai,Exited,1626871.0,230
+808,Aarav,Kapoor,Customer Service,Analyst,2020-07-24,Patna,Active,517370.0,889
+809,Diya,Jain,Marketing,Specialist,2026-02-18,Chennai,Active,579967.0,119
+810,Rahul,Kapoor,IT,Analyst,2019-12-07,Lucknow,Active,795722.0,161
+811,Aanya,Gupta,Operations,Manager,2019-07-23,Bengaluru,Active,1433638.0,924
+812,Vivaan,Joshi,Marketing,Coordinator,2023-03-16,Lucknow,Active,411310.0,465
+813,Vivaan,Chauhan,Customer Service,Executive,2021-11-17,Jaipur,Active,1158683.0,973
+814,Diya,Rao,Marketing,Coordinator,2022-11-06,Chandigarh,Active,1484493.0,95
+815,Kabir,Sharma,Customer Service,Specialist,2018-09-27,Coimbatore,Active,261982.0,166
+816,Ananya,Iyer,Sales,Associate,2024-09-24,Vadodara,Active,615530.0,146
+817,Priya,Das,IT,Associate,2020-02-09,Delhi,Exited,339486.0,92
+818,Aarav,Chauhan,Operations,Manager,2022-10-30,Lucknow,Active,612779.0,762
+819,Karan,Kapoor,Marketing,Specialist,2018-01-26,Mumbai,Active,493706.0,256
+820,Kavya,Chauhan,Sales,Executive,2020-08-06,Surat,Active,1015051.0,753
+821,Kavya,Iyer,Operations,Coordinator,2020-01-13,Kolkata,Active,1236886.0,267
+822,Aarav,Verma,Customer Service,Manager,2022-09-28,Hyderabad,Active,1197060.0,565
+823,Arjun,Agarwal,Warehouse,Analyst,2023-07-27,Delhi,Active,1486591.0,80
+824,Riya,Agarwal,Operations,Analyst,2019-09-20,Surat,Active,1499942.0,656
+825,Aanya,Verma,Sales,Coordinator,2019-10-26,Vadodara,Active,662478.0,68
+826,Riya,Iyer,Operations,Analyst,2024-09-10,Coimbatore,Active,467094.0,807
+827,Riya,Rao,Warehouse,Specialist,2025-11-22,Patna,Active,1556542.0,194
+828,Karan,Rao,Sales,Executive,2023-03-01,Indore,Exited,1405663.0,781
+829,Vivaan,Mishra,Finance,Executive,2020-06-21,Bengaluru,Active,1532607.0,67
+830,Rohan,Shah,Operations,Manager,2022-07-21,Hyderabad,Active,1604806.0,216
+831,Aanya,Mehta,Sales,Manager,2021-01-24,Vadodara,Active,1134839.0,200
+832,Rohan,Singh,Finance,Analyst,2019-10-19,Pune,Active,374699.0,386
+833,Rahul,Kapoor,Finance,Executive,2022-04-24,Ahmedabad,Leave,710320.0,166
+834,Meera,Jain,Finance,Analyst,2022-12-10,Bhopal,Active,602960.0,682
+835,Nisha,Joshi,IT,Specialist,2024-02-17,Nagpur,Active,1012118.0,495
+836,Meera,Jain,Customer Service,Coordinator,2025-11-04,Bengaluru,Active,243156.0,655
+837,Neha,Shah,Operations,Manager,2018-07-16,Lucknow,Active,419074.0,845
+838,Sneha,Nair,IT,Specialist,2025-07-26,Pune,Active,927233.0,880
+839,Kavya,Rao,Marketing,Associate,2023-06-30,Indore,Active,747121.0,837
+840,Aditya,Verma,Marketing,Specialist,2022-03-14,Kochi,Active,936867.0,473
+841,Ishita,Nair,Sales,Coordinator,2021-08-17,Chennai,Exited,1022805.0,596
+842,Kabir,Shah,IT,Manager,2024-07-02,Mumbai,Active,1604972.0,36
+843,Vivaan,Nair,Sales,Executive,2023-03-21,Patna,Active,1463597.0,885
+844,Aanya,Singh,IT,Executive,2023-02-20,Lucknow,Exited,1526176.0,394
+845,Kavya,Mishra,Sales,Coordinator,2020-08-19,Hyderabad,Active,1511470.0,875
+846,Karan,Kapoor,Sales,Coordinator,2020-02-13,Pune,Active,1274525.0,302
+847,Kavya,Kumar,Operations,Manager,2024-06-27,Chennai,Active,908617.0,472
+848,Priya,Nair,IT,Analyst,2026-02-25,Vadodara,Active,1234928.0,707
+849,Diya,Patel,Operations,Manager,2021-05-21,Kochi,Exited,242534.0,889
+850,Aanya,Reddy,Sales,Manager,2026-01-06,Pune,Active,1164280.0,744
+851,Aditya,Joshi,Finance,Executive,2019-01-12,Kolkata,Active,382375.0,995
+852,Ananya,Singh,Finance,Manager,2019-02-11,Chandigarh,Active,914932.0,243
+853,Aarav,Das,IT,Specialist,2024-07-13,Surat,Active,1211516.0,106
+854,Rohan,Mehta,Finance,Executive,2019-09-26,Lucknow,Active,485424.0,118
+855,Riya,Kapoor,Operations,Specialist,2023-11-08,Coimbatore,Active,513330.0,882
+856,Diya,Malhotra,Sales,Manager,2022-10-15,Pune,Active,1738759.0,166
+857,Diya,Kumar,IT,Coordinator,2019-11-21,Bhubaneswar,Leave,1788852.0,43
+858,Meera,Joshi,Finance,Analyst,2025-02-19,Bengaluru,Active,333225.0,25
+859,Ananya,Singh,Sales,Analyst,2023-12-05,Mumbai,Active,903887.0,739
+860,Rahul,Joshi,Customer Service,Manager,2019-09-21,Jaipur,Active,795092.0,630
+861,Vivaan,Malhotra,Customer Service,Coordinator,2026-01-02,Coimbatore,Active,1541860.0,117
+862,Vivaan,Mishra,Finance,Executive,2024-11-13,Bhubaneswar,Active,872781.0,610
+863,Sneha,Nair,Warehouse,Specialist,2018-01-16,Bengaluru,Active,1594533.0,406
+864,Aditya,Joshi,Sales,Specialist,2026-01-21,Chennai,Active,1341135.0,732
+865,Kabir,Kumar,Warehouse,Associate,2025-05-06,Coimbatore,Active,244830.0,322
+866,Nisha,Joshi,Warehouse,Analyst,2022-04-08,Bengaluru,Active,1454044.0,709
+867,Sneha,Patel,Customer Service,Manager,2018-07-07,Mumbai,Active,485734.0,14
+868,Vivaan,Reddy,Marketing,Specialist,2023-04-03,Vadodara,Active,760407.0,957
+869,Arjun,Gupta,Customer Service,Specialist,2020-06-04,Delhi,Active,1343748.0,769
+870,Vikram,Verma,Operations,Analyst,2025-06-01,Chandigarh,Active,647153.0,820
+871,Kabir,Kumar,Finance,Analyst,2024-02-04,Mumbai,Active,1658006.0,888
+872,Kavya,Gupta,Operations,Associate,2024-05-28,Coimbatore,Active,417073.0,506
+873,Rahul,Mehta,Operations,Manager,2021-11-10,Mumbai,Active,1736333.0,758
+874,Neha,Rao,Marketing,Specialist,2025-01-05,Bhopal,Active,317012.0,72
+875,Sneha,Chauhan,Warehouse,Executive,2024-05-03,Vadodara,Active,1320920.0,885
+876,Sneha,Malhotra,Customer Service,Coordinator,2020-09-13,Pune,Active,1697216.0,107
+877,Ananya,Malhotra,Marketing,Analyst,2018-08-14,Chandigarh,Exited,1558140.0,503
+878,Arjun,Jain,Warehouse,Executive,2026-02-08,Pune,Active,437030.0,900
+879,Vivaan,Malhotra,Customer Service,Associate,2018-08-22,Nagpur,Active,1085884.0,690
+880,Kavya,Patel,Operations,Executive,2023-03-06,Jaipur,Active,985383.0,662
+881,Priya,Sharma,IT,Coordinator,2024-09-16,Surat,Active,809857.0,37
+882,Ananya,Jain,Customer Service,Coordinator,2018-06-23,Jaipur,Active,752834.0,527
+883,Priya,Kapoor,Finance,Manager,2019-11-20,Delhi,Exited,708560.0,124
+884,Karan,Singh,Warehouse,Coordinator,2018-11-08,Ahmedabad,Active,687471.0,694
+885,Sneha,Agarwal,IT,Analyst,2020-07-17,Vadodara,Active,1346411.0,684
+886,Nisha,Iyer,Warehouse,Coordinator,2022-06-15,Lucknow,Active,999470.0,707
+887,Aarav,Kumar,Operations,Associate,2020-11-25,Pune,Active,989938.0,740
+888,Neha,Iyer,Customer Service,Analyst,2025-05-26,Ahmedabad,Active,710572.0,979
+889,Priya,Chauhan,Customer Service,Manager,2022-01-30,Coimbatore,Exited,270998.0,19
+890,Meera,Patel,Marketing,Analyst,2019-04-28,Vadodara,Leave,1737701.0,721
+891,Karan,Nair,Operations,Executive,2024-12-19,Bengaluru,Active,484148.0,353
+892,Rohan,Kumar,Customer Service,Manager,2023-06-14,Ahmedabad,Active,1786342.0,236
+893,Aanya,Joshi,Finance,Executive,2023-09-07,Surat,Active,768810.0,576
+894,Arjun,Iyer,Warehouse,Associate,2021-08-24,Pune,Active,509338.0,898
+895,Vikram,Malhotra,Finance,Specialist,2022-04-25,Indore,Active,1035775.0,395
+896,Arjun,Jain,IT,Manager,2021-08-16,Bhopal,Active,1385178.0,882
+897,Rahul,Jain,Marketing,Analyst,2024-06-18,Indore,Leave,796685.0,485
+898,Priya,Iyer,Operations,Coordinator,2018-07-14,Indore,Exited,1387498.0,760
+899,Kavya,Rao,Marketing,Analyst,2022-12-28,Chennai,Active,1777374.0,391
+900,Diya,Malhotra,Operations,Manager,2023-08-06,Kochi,Active,1638901.0,799
+901,Sneha,Kapoor,Finance,Analyst,2025-08-26,Lucknow,Active,830434.0,150
+902,Aanya,Agarwal,Customer Service,Associate,2024-12-08,Surat,Active,1743523.0,188
+903,Meera,Nair,Warehouse,Manager,2024-08-16,Bhubaneswar,Active,734624.0,177
+904,Rohan,Chauhan,Warehouse,Manager,2022-08-09,Lucknow,Active,1464296.0,197
+905,Neha,Sharma,Marketing,Coordinator,2020-05-08,Vadodara,Active,1587751.0,368
+906,Vivaan,Reddy,Operations,Manager,2019-12-21,Lucknow,Active,1527686.0,482
+907,Riya,Agarwal,Operations,Associate,2018-08-16,Chennai,Active,1735047.0,911
+908,Ananya,Malhotra,Warehouse,Analyst,2018-09-05,Nagpur,Active,529770.0,759
+909,Riya,Mishra,Customer Service,Executive,2023-02-17,Nagpur,Exited,933859.0,130
+910,Rohan,Mishra,Marketing,Associate,2025-12-31,Bhopal,Active,1597436.0,938
+911,Aarav,Singh,Customer Service,Manager,2023-03-18,Surat,Active,355571.0,380
+912,Ananya,Mehta,Warehouse,Executive,2024-04-17,Nagpur,Active,249628.0,724
+913,Riya,Nair,Marketing,Analyst,2019-04-02,Kolkata,Active,1469815.0,780
+914,Priya,Verma,Sales,Manager,2019-02-17,Bhubaneswar,Active,1139477.0,820
+915,Aarav,Jain,Customer Service,Associate,2025-11-25,Mumbai,Leave,994850.0,450
+916,Diya,Agarwal,IT,Analyst,2024-10-23,Delhi,Active,1029190.0,887
+917,Arjun,Verma,Warehouse,Specialist,2021-12-03,Vadodara,Exited,577362.0,814
+918,Ananya,Kapoor,Warehouse,Executive,2021-09-11,Bengaluru,Active,915640.0,329
+919,Karan,Shah,Customer Service,Analyst,2020-01-18,Hyderabad,Active,1793637.0,414
+920,Rahul,Shah,Customer Service,Associate,2018-08-10,Chennai,Active,1798715.0,722
+921,Nisha,Joshi,Marketing,Coordinator,2022-03-18,Hyderabad,Leave,858261.0,976
+922,Nisha,Patel,Customer Service,Coordinator,2023-05-19,Indore,Active,1267539.0,729
+923,Ananya,Iyer,Finance,Coordinator,2024-06-19,Delhi,Active,478805.0,396
+924,Neha,Agarwal,Operations,Specialist,2019-07-21,Bengaluru,Active,1604093.0,542
+925,Rahul,Malhotra,Sales,Analyst,2024-08-18,Nagpur,Active,1767094.0,151
+926,Aarav,Verma,Warehouse,Specialist,2023-06-17,Jaipur,Active,610883.0,445
+927,Neha,Malhotra,Sales,Executive,2020-09-18,Coimbatore,Active,1678497.0,702
+928,Neha,Agarwal,Marketing,Executive,2022-07-22,Chandigarh,Active,787650.0,602
+929,Nisha,Mishra,IT,Analyst,2018-12-11,Kolkata,Active,1655115.0,57
+930,Rohan,Sharma,Finance,Manager,2023-11-14,Lucknow,Active,1747390.0,366
+931,Vivaan,Nair,Finance,Manager,2022-06-03,Vadodara,Active,834215.0,485
+932,Priya,Iyer,Customer Service,Associate,2018-06-17,Hyderabad,Active,272504.0,397
+933,Ananya,Reddy,Warehouse,Executive,2019-02-23,Patna,Exited,342833.0,687
+934,Aditya,Kapoor,IT,Analyst,2025-10-21,Nagpur,Active,1204789.0,976
+935,Priya,Reddy,Marketing,Executive,2022-10-21,Jaipur,Active,699567.0,939
+936,Kavya,Mehta,Finance,Specialist,2025-07-09,Indore,Active,508483.0,445
+937,Ananya,Shah,Customer Service,Analyst,2023-08-24,Pune,Active,666415.0,166
+938,Kabir,Shah,Customer Service,Coordinator,2019-01-16,Hyderabad,Exited,1640306.0,957
+939,Meera,Chauhan,Warehouse,Associate,2025-01-24,Kochi,Active,1715641.0,651
+940,Kabir,Sharma,Operations,Analyst,2024-09-30,Vadodara,Active,1708423.0,818
+941,Kabir,Verma,Marketing,Manager,2022-11-29,Pune,Active,1752386.0,655
+942,Ishita,Iyer,Finance,Executive,2025-08-29,Lucknow,Exited,939530.0,923
+943,Sneha,Gupta,Warehouse,Coordinator,2019-10-22,Nagpur,Active,1205938.0,196
+944,Vikram,Malhotra,IT,Coordinator,2022-09-22,Bhopal,Active,544495.0,134
+945,Rahul,Patel,Warehouse,Executive,2023-03-21,Vadodara,Active,296263.0,159
+946,Arjun,Malhotra,Sales,Coordinator,2019-08-07,Lucknow,Active,866976.0,848
+947,Aditya,Kumar,Operations,Executive,2025-09-09,Lucknow,Active,996370.0,766
+948,Aditya,Kapoor,Marketing,Manager,2018-10-11,Hyderabad,Active,1486792.0,6
+949,Rahul,Patel,IT,Associate,2018-11-06,Indore,Active,1545922.0,218
+950,Ananya,Sharma,Operations,Coordinator,2023-02-09,Hyderabad,Exited,490317.0,627
+951,Kabir,Kumar,IT,Manager,2020-08-25,Mumbai,Active,589002.0,828
+952,Kabir,Joshi,Sales,Coordinator,2022-09-26,Nagpur,Active,1558589.0,391
+953,Nisha,Nair,Sales,Associate,2025-10-27,Ahmedabad,Active,514266.0,133
+954,Karan,Mishra,Marketing,Specialist,2018-01-07,Lucknow,Active,1375413.0,206
+955,Meera,Reddy,Sales,Analyst,2021-03-29,Chennai,Active,1507589.0,264
+956,Diya,Jain,Operations,Associate,2020-01-18,Kochi,Active,897497.0,889
+957,Rohan,Kumar,IT,Specialist,2023-07-02,Indore,Active,299638.0,195
+958,Aanya,Patel,Customer Service,Coordinator,2018-11-12,Kochi,Active,1441121.0,105
+959,Aanya,Sharma,Operations,Coordinator,2025-04-19,Kochi,Active,462182.0,142
+960,Meera,Chauhan,Marketing,Coordinator,2022-08-23,Bhopal,Active,440065.0,35
+961,Rahul,Malhotra,Marketing,Coordinator,2020-05-01,Indore,Active,1259618.0,700
+962,Karan,Reddy,Warehouse,Analyst,2026-02-17,Lucknow,Active,852049.0,999
+963,Riya,Gupta,Marketing,Coordinator,2024-11-12,Bhopal,Active,383484.0,944
+964,Meera,Reddy,IT,Executive,2026-03-10,Chandigarh,Active,358926.0,31
+965,Sneha,Kumar,Marketing,Executive,2023-02-11,Chandigarh,Active,721590.0,534
+966,Nisha,Mishra,IT,Manager,2022-03-26,Kolkata,Active,866102.0,18
+967,Rohan,Mishra,Marketing,Specialist,2024-01-28,Bhopal,Active,881142.0,461
+968,Meera,Mehta,IT,Specialist,2021-08-28,Bengaluru,Active,1294048.0,628
+969,Ananya,Kumar,Sales,Coordinator,2024-01-09,Bhopal,Active,439484.0,528
+970,Priya,Verma,Marketing,Manager,2024-05-02,Surat,Active,1369459.0,736
+971,Rahul,Reddy,Sales,Manager,2018-12-10,Surat,Active,652071.0,396
+972,Neha,Malhotra,IT,Analyst,2023-01-10,Kolkata,Active,1559934.0,568
+973,Rohan,Patel,Warehouse,Associate,2022-04-11,Kolkata,Active,1746324.0,585
+974,Karan,Verma,Customer Service,Specialist,2022-06-25,Jaipur,Active,1684910.0,886
+975,Arjun,Kapoor,Marketing,Coordinator,2020-03-23,Kochi,Active,251451.0,372
+976,Vivaan,Jain,Sales,Analyst,2023-07-16,Hyderabad,Active,355255.0,665
+977,Diya,Gupta,Customer Service,Executive,2025-02-27,Bhubaneswar,Exited,1799172.0,514
+978,Aarav,Rao,Finance,Analyst,2019-06-26,Kochi,Active,1763164.0,205
+979,Rohan,Reddy,Customer Service,Coordinator,2018-08-27,Patna,Active,1164379.0,584
+980,Aanya,Gupta,Customer Service,Associate,2020-06-17,Kochi,Active,890852.0,91
+981,Vivaan,Jain,Customer Service,Executive,2023-10-15,Ahmedabad,Active,248616.0,658
+982,Diya,Agarwal,Warehouse,Associate,2022-03-08,Delhi,Active,542678.0,12
+983,Aditya,Malhotra,IT,Analyst,2018-02-10,Lucknow,Active,257405.0,673
+984,Riya,Verma,Customer Service,Executive,2024-07-04,Bhubaneswar,Active,426896.0,430
+985,Ishita,Verma,Warehouse,Coordinator,2023-11-03,Kolkata,Active,1336604.0,943
+986,Ishita,Kumar,Marketing,Associate,2021-12-07,Mumbai,Exited,1731132.0,391
+987,Aditya,Jain,Operations,Specialist,2021-05-16,Indore,Exited,1436411.0,337
+988,Aanya,Mishra,IT,Specialist,2022-05-13,Indore,Exited,1711129.0,498
+989,Vikram,Jain,Marketing,Analyst,2026-02-05,Chennai,Active,1580030.0,159
+990,Meera,Kapoor,Finance,Associate,2019-12-23,Bhopal,Active,1767846.0,262
+991,Priya,Agarwal,Operations,Specialist,2025-01-12,Vadodara,Active,495117.0,791
+992,Rahul,Iyer,Sales,Manager,2025-12-08,Bengaluru,Active,939913.0,758
+993,Arjun,Rao,IT,Executive,2019-03-16,Pune,Exited,586641.0,830
+994,Rahul,Sharma,Operations,Coordinator,2018-03-22,Coimbatore,Active,1202540.0,582
+995,Arjun,Jain,Finance,Analyst,2023-12-04,Surat,Active,1676993.0,955
+996,Rohan,Joshi,Operations,Associate,2022-03-25,Bhopal,Active,1437981.0,964
+997,Neha,Shah,Sales,Analyst,2019-10-09,Indore,Leave,1779327.0,502
+998,Ananya,Agarwal,Sales,Executive,2025-08-17,Kolkata,Active,634386.0,141
+999,Rohan,Kapoor,Sales,Coordinator,2022-02-06,Ahmedabad,Active,1177285.0,921
+1000,Kabir,Joshi,Finance,Executive,2018-02-17,Mumbai,Active,1461864.0,203
