@@ -292,27 +292,28 @@ The exact relationship paths and cardinalities should be verified against the fi
 
 ```text
 ecommerce-powerbi-dashboard/
+|
+|── Dataset/
+|  |── categories.csv
+|  |── customers.csv
+|  |── employees.csv
+|  |── inventory.csv
+|  |── marketing_campaigns.csv
+|  |── order_items.csv
+|  |── orders.csv
+|  |── payments.csv
+|  |── products.csv
+|  |── returns.csv
+|  |── reviews.csv
+|  |── shipments.csv
+|
+|── E-Commerce Analytics Dashboard.pdf
 │
-├── README.md
-│
-├── E-Commerce Analytics Dashboard.pdf
+|── Project_Report.pdf
 │   
 │
-├── Project_Report.pdf
-│
-├── Dataset/
-  ├── categories.csv
-  ├── customers.csv
-  ├── employees.csv
-  ├── inventory.csv
-  ├── marketing_campaigns.csv
-  ├── order_items.csv
-  ├── orders.csv
-  ├── payments.csv
-  ├── products.csv
-  ├── returns.csv
-  ├── reviews.csv
-  └── shipments.csv
+|── README.md
+
 
 
 ## Author
