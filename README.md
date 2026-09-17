@@ -277,7 +277,7 @@ Examples:
 ```text
 Customers → Orders → Order Items → Products
                     |
-                    └── Payments
+                    |-- Payments
 
 Orders → Shipments
 Products → Inventory
@@ -293,26 +293,28 @@ The exact relationship paths and cardinalities should be verified against the fi
 ```text
 ecommerce-powerbi-dashboard/
 |
-|── Dataset/
-|  |── categories.csv
-|  |── customers.csv
-|  |── employees.csv
-|  |── inventory.csv
-|  |── marketing_campaigns.csv
-|  |── order_items.csv
-|  |── orders.csv
-|  |── payments.csv
-|  |── products.csv
-|  |── returns.csv
-|  |── reviews.csv
-|  |── shipments.csv
+|-- Dataset/
+|  |-- categories.csv
+|  |-- customers.csv
+|  |-- employees.csv
+|  |-- inventory.csv
+|  |-- marketing_campaigns.csv
+|  |-- order_items.csv
+|  |-- orders.csv
+|  |-- payments.csv
+|  |-- products.csv
+|  |-- returns.csv
+|  |-- reviews.csv
+|  |-- shipments.csv
 |
-|── E-Commerce Analytics Dashboard.pdf
+|-- DAX_MEASURES.md
+|
+|-- E-Commerce Analytics Dashboard.pdf
 │
-|── Project_Report.pdf
+|-- Project_Report.pdf
 │   
 │
-|── README.md
+|-- README.md
 
 
 
