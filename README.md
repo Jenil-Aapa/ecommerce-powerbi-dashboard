@@ -48,7 +48,7 @@ The project uses approximately **4.7 million rows across 12 CSV files**.
 - `inventory`: **1 million+ rows**
 - Total dataset: approximately **4.7 million rows**
 
-Because the dataset is large, the project uses Power BI rather than trying to keep every table inside an Excel worksheet.
+**Because the dataset is large, the project uses Power BI rather than trying to keep every table inside an Excel worksheet.**
 
 ## Data Preparation
 
